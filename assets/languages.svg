@@ -1,37 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="704" height="260" viewBox="0 0 704 260" role="img" aria-label="Primary language · 主要语言" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
-<title>Primary language · 主要语言</title>
-<rect width="704" height="260" rx="10" fill="#fcfcfb"/>
-<text x="14" y="26" font-size="13" font-weight="700" fill="#0b0b0b">Primary language · 主要语言</text>
-<text x="206" y="50" text-anchor="end" font-size="12" fill="#52514e">Python</text>
-<rect x="214" y="38" width="420" height="13" rx="3" fill="#e8e7e3"/>
-<rect class="bar" x="214" y="38" width="420.0" height="13" rx="3" fill="#2a78d6"/>
-<text x="642" y="50" font-size="12" font-weight="600" fill="#0b0b0b">61</text>
-<text x="206" y="76" text-anchor="end" font-size="12" fill="#52514e">TypeScript</text>
-<rect x="214" y="64" width="420" height="13" rx="3" fill="#e8e7e3"/>
-<rect class="bar" x="214" y="64" width="48.2" height="13" rx="3" fill="#2a78d6"/>
-<text x="642" y="76" font-size="12" font-weight="600" fill="#0b0b0b">7</text>
-<text x="206" y="102" text-anchor="end" font-size="12" fill="#52514e">JavaScript</text>
-<rect x="214" y="90" width="420" height="13" rx="3" fill="#e8e7e3"/>
-<rect class="bar" x="214" y="90" width="34.4" height="13" rx="3" fill="#2a78d6"/>
-<text x="642" y="102" font-size="12" font-weight="600" fill="#0b0b0b">5</text>
-<text x="206" y="128" text-anchor="end" font-size="12" fill="#52514e">HTML</text>
-<rect x="214" y="116" width="420" height="13" rx="3" fill="#e8e7e3"/>
-<rect class="bar" x="214" y="116" width="27.5" height="13" rx="3" fill="#2a78d6"/>
-<text x="642" y="128" font-size="12" font-weight="600" fill="#0b0b0b">4</text>
-<text x="206" y="154" text-anchor="end" font-size="12" fill="#52514e">C</text>
-<rect x="214" y="142" width="420" height="13" rx="3" fill="#e8e7e3"/>
-<rect class="bar" x="214" y="142" width="13.8" height="13" rx="3" fill="#2a78d6"/>
-<text x="642" y="154" font-size="12" font-weight="600" fill="#0b0b0b">2</text>
-<text x="206" y="180" text-anchor="end" font-size="12" fill="#52514e">Solidity</text>
-<rect x="214" y="168" width="420" height="13" rx="3" fill="#e8e7e3"/>
-<rect class="bar" x="214" y="168" width="13.8" height="13" rx="3" fill="#2a78d6"/>
-<text x="642" y="180" font-size="12" font-weight="600" fill="#0b0b0b">2</text>
-<text x="206" y="206" text-anchor="end" font-size="12" fill="#52514e">Shell</text>
-<rect x="214" y="194" width="420" height="13" rx="3" fill="#e8e7e3"/>
-<rect class="bar" x="214" y="194" width="6.9" height="13" rx="3" fill="#2a78d6"/>
-<text x="642" y="206" font-size="12" font-weight="600" fill="#0b0b0b">1</text>
-<text x="206" y="232" text-anchor="end" font-size="12" fill="#52514e">Go</text>
-<rect x="214" y="220" width="420" height="13" rx="3" fill="#e8e7e3"/>
-<rect class="bar" x="214" y="220" width="6.9" height="13" rx="3" fill="#2a78d6"/>
-<text x="642" y="232" font-size="12" font-weight="600" fill="#0b0b0b">1</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="318" viewBox="0 0 880 318" role="img" aria-label="Primary language, all projects · 全部项目的主要语言" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+<title>Primary language, all projects · 全部项目的主要语言</title>
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#80b2ee"/><rect width="2.2" height="6" fill="#2a78d6"/></pattern></defs>
+<rect width="880" height="318" rx="14" fill="#f4f4f1"/>
+<text x="24" y="30" font-size="13" font-weight="700" fill="#0b0b0b">Primary language, all projects · 全部项目的主要语言</text>
+<rect x="24.0" y="41" width="11" height="11" rx="2" fill="#2a78d6"/>
+<text x="40.0" y="50" font-size="11" fill="#52514e">public · 公开</text>
+<rect x="130.6" y="41" width="11" height="11" rx="2" fill="url(#hatch)"/>
+<text x="146.6" y="50" font-size="11" fill="#52514e">private · 私有</text>
+<text x="186" y="77" text-anchor="end" font-size="11.5" fill="#52514e">Python</text>
+<rect x="194" y="66" width="225.2" height="14" rx="3" fill="#2a78d6"/>
+<rect x="421.2" y="66" width="332.8" height="14" rx="3" fill="url(#hatch)"/>
+<text x="762.0" y="77" font-size="11" font-weight="600" fill="#0b0b0b">61 + 90</text>
+<text x="186" y="101" text-anchor="end" font-size="11.5" fill="#52514e">TypeScript</text>
+<rect x="194" y="90" width="25.0" height="14" rx="3" fill="#2a78d6"/>
+<rect x="221.0" y="90" width="80.6" height="14" rx="3" fill="url(#hatch)"/>
+<text x="309.5" y="101" font-size="11" font-weight="600" fill="#0b0b0b">7 + 22</text>
+<text x="186" y="125" text-anchor="end" font-size="11.5" fill="#52514e">JavaScript</text>
+<rect x="194" y="114" width="17.5" height="14" rx="3" fill="#2a78d6"/>
+<rect x="213.5" y="114" width="65.8" height="14" rx="3" fill="url(#hatch)"/>
+<text x="287.3" y="125" font-size="11" font-weight="600" fill="#0b0b0b">5 + 18</text>
+<text x="186" y="149" text-anchor="end" font-size="11.5" fill="#52514e">Shell</text>
+<rect x="194" y="138" width="2.7" height="14" rx="3" fill="#2a78d6"/>
+<rect x="198.7" y="138" width="76.9" height="14" rx="3" fill="url(#hatch)"/>
+<text x="283.6" y="149" font-size="11" font-weight="600" fill="#0b0b0b">1 + 21</text>
+<text x="186" y="173" text-anchor="end" font-size="11.5" fill="#52514e">HTML</text>
+<rect x="194" y="162" width="13.8" height="14" rx="3" fill="#2a78d6"/>
+<rect x="209.8" y="162" width="62.0" height="14" rx="3" fill="url(#hatch)"/>
+<text x="279.9" y="173" font-size="11" font-weight="600" fill="#0b0b0b">4 + 17</text>
+<text x="186" y="197" text-anchor="end" font-size="11.5" fill="#52514e">Swift</text>
+<rect x="194" y="186" width="2.7" height="14" rx="3" fill="#2a78d6"/>
+<rect x="198.7" y="186" width="28.7" height="14" rx="3" fill="url(#hatch)"/>
+<text x="235.4" y="197" font-size="11" font-weight="600" fill="#0b0b0b">1 + 8</text>
+<text x="186" y="221" text-anchor="end" font-size="11.5" fill="#52514e">Rust</text>
+<rect x="194.0" y="210" width="13.8" height="14" rx="3" fill="url(#hatch)"/>
+<text x="216.8" y="221" font-size="11" font-weight="600" fill="#0b0b0b">0 + 4</text>
+<text x="186" y="245" text-anchor="end" font-size="11.5" fill="#52514e">C</text>
+<rect x="194" y="234" width="6.4" height="14" rx="3" fill="#2a78d6"/>
+<rect x="202.4" y="234" width="2.7" height="14" rx="3" fill="url(#hatch)"/>
+<text x="213.1" y="245" font-size="11" font-weight="600" fill="#0b0b0b">2 + 1</text>
+<text x="186" y="269" text-anchor="end" font-size="11.5" fill="#52514e">Go</text>
+<rect x="194" y="258" width="2.7" height="14" rx="3" fill="#2a78d6"/>
+<rect x="198.7" y="258" width="2.7" height="14" rx="3" fill="url(#hatch)"/>
+<text x="209.4" y="269" font-size="11" font-weight="600" fill="#0b0b0b">1 + 1</text>
+<text x="186" y="293" text-anchor="end" font-size="11.5" fill="#52514e">Solidity</text>
+<rect x="194" y="282" width="6.4" height="14" rx="3" fill="#2a78d6"/>
+<text x="209.4" y="293" font-size="11" font-weight="600" fill="#0b0b0b">2 + 0</text>
 </svg>

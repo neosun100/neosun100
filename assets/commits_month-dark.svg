@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-label="Commits per month · 每月提交（公开 + 私有仓库）" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+<title>Commits per month · 每月提交（公开 + 私有仓库）</title>
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#2c6cc0"/><rect width="2.2" height="6" fill="#74a9ee"/></pattern></defs>
+<rect width="880" height="250" rx="14" fill="#232322"/>
+<text x="24" y="30" font-size="13" font-weight="700" fill="#f0efec">Commits per month · 每月提交（公开 + 私有仓库）</text>
+<line x1="24" y1="132.0" x2="856" y2="132.0" stroke="#383835"/>
+<line x1="24" y1="58.0" x2="856" y2="58.0" stroke="#383835"/>
+<rect class="seg" data-m="2025-04" data-s="s0" data-v="3" x="164.7" y="206.0" width="30.7" height="0.5" rx="2" fill="#3987e5"><animate attributeName="height" values="0;0.5" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;206.0" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2025-11" data-s="s0" data-v="2" x="407.3" y="206.0" width="30.7" height="0.5" rx="2" fill="#3987e5"><animate attributeName="height" values="0;0.5" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;206.0" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2025-12" data-s="s0" data-v="40" x="442.0" y="205.5" width="30.7" height="0.5" rx="2" fill="#3987e5"><animate attributeName="height" values="0;0.5" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;205.5" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2026-01" data-s="s0" data-v="48" x="476.7" y="205.3" width="30.7" height="0.5" rx="2" fill="#3987e5"><animate attributeName="height" values="0;0.5" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;205.3" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2026-02" data-s="s0" data-v="108" x="511.3" y="204.5" width="30.7" height="0.5" rx="2" fill="#3987e5"><animate attributeName="height" values="0;0.5" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;204.5" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2026-03" data-s="s0" data-v="198" x="546.0" y="203.3" width="30.7" height="1.2" rx="2" fill="#3987e5"><animate attributeName="height" values="0;1.2" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;203.3" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2026-04" data-s="s0" data-v="232" x="580.7" y="202.8" width="30.7" height="1.7" rx="2" fill="#3987e5"><animate attributeName="height" values="0;1.7" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;202.8" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2026-05" data-s="s0" data-v="733" x="615.3" y="195.9" width="30.7" height="8.6" rx="2" fill="#3987e5"><animate attributeName="height" values="0;8.6" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;195.9" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2026-06" data-s="s0" data-v="335" x="650.0" y="201.4" width="30.7" height="3.1" rx="2" fill="#3987e5"><animate attributeName="height" values="0;3.1" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;201.4" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2026-07" data-s="s0" data-v="1333" x="684.7" y="187.7" width="30.7" height="16.8" rx="2" fill="#3987e5"><animate attributeName="height" values="0;16.8" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;187.7" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2026-08" data-s="s0" data-v="2053" x="719.3" y="177.8" width="30.7" height="26.7" rx="2" fill="#3987e5"><animate attributeName="height" values="0;26.7" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;177.8" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2026-09" data-s="s0" data-v="1492" x="754.0" y="185.5" width="30.7" height="19.0" rx="2" fill="#3987e5"><animate attributeName="height" values="0;19.0" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;185.5" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<rect class="seg" data-m="2026-10" data-s="s0" data-v="10767" x="788.7" y="58.0" width="30.7" height="146.5" rx="2" fill="#3987e5"><animate attributeName="height" values="0;146.5" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;58.0" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<text x="804.0" y="53.0" text-anchor="middle" font-size="11" font-weight="700" fill="#f0efec">10,767</text>
+<rect class="seg" data-m="2026-11" data-s="s0" data-v="2497" x="823.3" y="171.7" width="30.7" height="32.8" rx="2" fill="#3987e5"><animate attributeName="height" values="0;32.8" dur="1.2s" begin="0s" fill="freeze"/><animate attributeName="y" values="206.0;171.7" dur="1.2s" begin="0s" fill="freeze"/></rect>
+<text x="838.7" y="166.7" text-anchor="middle" font-size="11" font-weight="700" fill="#f0efec">2,497</text>
+<text x="24.0" y="222" text-anchor="start" font-size="10" fill="#c3c2b7">2024-12</text>
+<text x="457.3" y="222" text-anchor="middle" font-size="10" fill="#c3c2b7">2025-12</text>
+<text x="856.0" y="222" text-anchor="end" font-size="10" fill="#c3c2b7">2026-11</text>
+<text x="440.0" y="240" text-anchor="middle" font-size="10" fill="#c3c2b7">last 24 months · 最近 24 个月</text>
+</svg>

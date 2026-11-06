@@ -12,6 +12,11 @@ I package open-source AI models for speech, translation, OCR and talking-head vi
 
 > 我把语音合成、翻译、OCR、数字人视频等开源 AI 模型打包成集成 Web UI、REST API 和 MCP 服务的 Docker 镜像，方便本地部署。我也开发 AI 智能体工具、MCP 服务器，以及 HashKey Chain 上的零知识身份与合规协议。
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/galaxy-dark.svg">
+  <img alt="Project galaxy: 97 public and 198 private projects" src="assets/galaxy.svg">
+</picture>
+
 ---
 
 ## ✨ Highlights · 亮点
@@ -78,20 +83,24 @@ An AI-powered novel writing assistant that generates outlines, characters, world
 ## 📊 By the numbers · 数据
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img alt="New projects per month, public and private" src="assets/timeline.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/commits_month-dark.svg">
+  <img alt="Commits per month" src="assets/commits_month.svg">
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/categories-dark.svg">
-  <img alt="Projects by domain" src="assets/categories.svg">
+  <img alt="All projects by domain" src="assets/categories.svg">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-  <img alt="Primary languages" src="assets/languages.svg">
+  <img alt="Primary language, all projects" src="assets/languages.svg">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg">
   <img alt="Most-starred projects" src="assets/stars.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
-  <img alt="New public projects per month" src="assets/timeline.svg">
 </picture>
 
 ## 🔒 Beyond the public repos · 公开仓库之外
@@ -115,11 +124,6 @@ An AI-powered novel writing assistant that generates outlines, characters, world
 
 - **198 private or unlisted projects** — 8 are introduced below, the rest stay unnamed. By domain: Agent tooling (38), Infrastructure (33), LLM apps (29), Content & media (23), Speech & audio AI (18). Languages: Python (90), TypeScript (22), Shell (21), JavaScript (18), HTML (17).
 - 另有 **198** 个私有或未列出的项目（下面介绍其中 8 个，其余不列名字）。按领域：Agent 工具 38、基础设施 33、大模型应用 29、内容与媒体 23、语音与音频 AI 18。
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/private-dark.svg">
-  <img alt="Private projects by domain" src="assets/private.svg">
-</picture>
 
 ### 🔒 Private spotlight · 私有项目精选
 
@@ -321,5 +325,10 @@ _Every public project below, with an English and a Chinese one-liner. 下面是�
 ---
 
 _And 198 more private or unlisted projects · 另有 198 个私有或未列出的项目。_
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/waves-dark.svg">
+  <img alt="Thanks for stopping by" src="assets/waves.svg">
+</picture>
 
 <sub>This page is generated from repository data by a private tool. Every repository linked here is re-verified public before publishing; counts and charts are recomputed from the same data, never hand-written. 本页由私有工具从仓库数据生成：所有链接的仓库在发布前实时核验为公开，所有数字与图表均由代码重算。</sub>
