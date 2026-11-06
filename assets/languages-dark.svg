@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="704" height="260" viewBox="0 0 704 260" role="img" aria-label="Primary language · 主要语言" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+<title>Primary language · 主要语言</title>
+<rect width="704" height="260" rx="10" fill="#1a1a19"/>
+<text x="14" y="26" font-size="13" font-weight="700" fill="#f0efec">Primary language · 主要语言</text>
+<text x="206" y="50" text-anchor="end" font-size="12" fill="#c3c2b7">Python</text>
+<rect x="214" y="38" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="38" width="420.0" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="50" font-size="12" font-weight="600" fill="#f0efec">61</text>
+<text x="206" y="76" text-anchor="end" font-size="12" fill="#c3c2b7">TypeScript</text>
+<rect x="214" y="64" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="64" width="48.2" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="76" font-size="12" font-weight="600" fill="#f0efec">7</text>
+<text x="206" y="102" text-anchor="end" font-size="12" fill="#c3c2b7">JavaScript</text>
+<rect x="214" y="90" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="90" width="34.4" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="102" font-size="12" font-weight="600" fill="#f0efec">5</text>
+<text x="206" y="128" text-anchor="end" font-size="12" fill="#c3c2b7">HTML</text>
+<rect x="214" y="116" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="116" width="27.5" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="128" font-size="12" font-weight="600" fill="#f0efec">4</text>
+<text x="206" y="154" text-anchor="end" font-size="12" fill="#c3c2b7">C</text>
+<rect x="214" y="142" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="142" width="13.8" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="154" font-size="12" font-weight="600" fill="#f0efec">2</text>
+<text x="206" y="180" text-anchor="end" font-size="12" fill="#c3c2b7">Solidity</text>
+<rect x="214" y="168" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="168" width="13.8" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="180" font-size="12" font-weight="600" fill="#f0efec">2</text>
+<text x="206" y="206" text-anchor="end" font-size="12" fill="#c3c2b7">Shell</text>
+<rect x="214" y="194" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="194" width="6.9" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="206" font-size="12" font-weight="600" fill="#f0efec">1</text>
+<text x="206" y="232" text-anchor="end" font-size="12" fill="#c3c2b7">Go</text>
+<rect x="214" y="220" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="220" width="6.9" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="232" font-size="12" font-weight="600" fill="#f0efec">1</text>
+</svg>

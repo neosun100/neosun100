@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="704" height="312" viewBox="0 0 704 312" role="img" aria-label="Projects by domain · 按领域" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+<title>Projects by domain · 按领域</title>
+<rect width="704" height="312" rx="10" fill="#1a1a19"/>
+<text x="14" y="26" font-size="13" font-weight="700" fill="#f0efec">Projects by domain · 按领域</text>
+<text x="206" y="50" text-anchor="end" font-size="12" fill="#c3c2b7">Speech &amp; audio AI</text>
+<rect x="214" y="38" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="38" width="420.0" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="50" font-size="12" font-weight="600" fill="#f0efec">32</text>
+<text x="206" y="76" text-anchor="end" font-size="12" fill="#c3c2b7">Other</text>
+<rect x="214" y="64" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="64" width="223.1" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="76" font-size="12" font-weight="600" fill="#f0efec">17</text>
+<text x="206" y="102" text-anchor="end" font-size="12" fill="#c3c2b7">Vision &amp; video AI</text>
+<rect x="214" y="90" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="90" width="183.8" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="102" font-size="12" font-weight="600" fill="#f0efec">14</text>
+<text x="206" y="128" text-anchor="end" font-size="12" fill="#c3c2b7">Agent tooling</text>
+<rect x="214" y="116" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="116" width="118.1" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="128" font-size="12" font-weight="600" fill="#f0efec">9</text>
+<text x="206" y="154" text-anchor="end" font-size="12" fill="#c3c2b7">LLM apps</text>
+<rect x="214" y="142" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="142" width="105.0" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="154" font-size="12" font-weight="600" fill="#f0efec">8</text>
+<text x="206" y="180" text-anchor="end" font-size="12" fill="#c3c2b7">Infrastructure</text>
+<rect x="214" y="168" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="168" width="91.9" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="180" font-size="12" font-weight="600" fill="#f0efec">7</text>
+<text x="206" y="206" text-anchor="end" font-size="12" fill="#c3c2b7">Content &amp; media</text>
+<rect x="214" y="194" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="194" width="52.5" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="206" font-size="12" font-weight="600" fill="#f0efec">4</text>
+<text x="206" y="232" text-anchor="end" font-size="12" fill="#c3c2b7">Data</text>
+<rect x="214" y="220" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="220" width="39.4" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="232" font-size="12" font-weight="600" fill="#f0efec">3</text>
+<text x="206" y="258" text-anchor="end" font-size="12" fill="#c3c2b7">Developer tools</text>
+<rect x="214" y="246" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="246" width="26.2" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="258" font-size="12" font-weight="600" fill="#f0efec">2</text>
+<text x="206" y="284" text-anchor="end" font-size="12" fill="#c3c2b7">Games</text>
+<rect x="214" y="272" width="420" height="13" rx="3" fill="#383835"/>
+<rect class="bar" x="214" y="272" width="13.1" height="13" rx="3" fill="#3987e5"/>
+<text x="642" y="284" font-size="12" font-weight="600" fill="#f0efec">1</text>
+</svg>
