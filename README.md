@@ -3,6 +3,11 @@
   <img alt="Neo 孫 — 97 public projects, 467 stars" src="assets/hero.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg">
+  <img alt="neofetch-style summary card" src="assets/neofetch.svg">
+</picture>
+
 I package open-source AI models for speech, translation, OCR and talking-head video into all-in-one Docker images with a Web UI, REST API and MCP server, so they're easy to run locally. I also build agent tooling: MCP servers, AI agent skills and a Bash loop that drives a coding agent through PRD user stories. I've built ZK identity protocols on HashKey Chain and send fixes and security reports upstream.
 
 > 我把语音合成、翻译、OCR、数字人视频等开源 AI 模型打包成集成 Web UI、REST API 和 MCP 服务的 Docker 镜像，方便本地部署。我也开发 AI 智能体工具、MCP 服务器，以及 HashKey Chain 上的零知识身份与合规协议。
@@ -95,9 +100,18 @@ An AI-powered novel writing assistant that generates outlines, characters, world
 - 近一年本人提交 **19,838** 个，分布在 **235** 天、**225** 个仓库（不含 merge 提交）。
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skyline-dark.svg">
+  <img alt="19838 commits in the past year, one tower per day" src="assets/skyline.svg">
+</picture>
+
+<details><summary>Flat view · 平面日历</summary>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
   <img alt="19838 commits in the past year" src="assets/activity.svg">
 </picture>
+
+</details>
 
 - **198 private or unlisted projects** — 8 are introduced below, the rest stay unnamed. By domain: Agent tooling (38), Infrastructure (33), LLM apps (29), Content & media (23), Speech & audio AI (18). Languages: Python (90), TypeScript (22), Shell (21), JavaScript (18), HTML (17).
 - 另有 **198** 个私有或未列出的项目（下面介绍其中 8 个，其余不列名字）。按领域：Agent 工具 38、基础设施 33、大模型应用 29、内容与媒体 23、语音与音频 AI 18。
@@ -132,7 +146,16 @@ _Selected private projects — code not public, described here with the owner's 
 
 ## 🧰 Stack · 技术栈
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/orbit-dark.svg">
+  <img alt="Tech stack orbit" src="assets/orbit.svg">
+</picture>
+
+<details><summary>Full list · 完整列表</summary>
+
 `Python` `Docker` `CUDA` `FastAPI` `MCP` `PyTorch` `Gradio` `WebSocket` `TypeScript` `Solidity` `JavaScript` `HashKey Chain` `vLLM` `Swagger` `Flask` `NVIDIA Container Toolkit` `ONNX Runtime` `Docker Compose` `Node.js` `Whisper` `Transformers` `Hardhat` `GGUF` `React` `HuggingFace` `Nginx` `ffmpeg` `HTML`
+
+</details>
 
 ## 📦 All public projects · 全部公开项目（97）
 

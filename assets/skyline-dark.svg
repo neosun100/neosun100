@@ -1,0 +1,1236 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="410" viewBox="0 0 880 410" role="img" aria-label="19838 commits in the past year — skyline" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+<title>19838 commits in the past year — skyline</title>
+<rect width="880" height="410" rx="14" fill="#232322"/>
+<text data-stat="commits_12m" x="24" y="48" font-size="30" font-weight="900" fill="#3987e5">19,838</text>
+<text x="143" y="32" font-size="13" font-weight="700" fill="#f0efec">commit skyline · past year · 近一年提交天际线</text>
+<text x="143" y="48" font-size="11" fill="#c3c2b7">one tower per day · busiest 2026-10-21: 1,004</text>
+<g><animateTransform attributeName="transform" type="translate" values="0 50;0 0;0 0" keyTimes="0;0.1;1" dur="14s" repeatCount="indefinite"/>
+<polygon points="128.4,170.0 822.7,314.2 756.1,355.6 61.8,211.4" fill="#1a1a19" stroke="#383835"/>
+<text x="117.0" y="238.9" text-anchor="middle" font-size="9" fill="#c3c2b7">Dec</text>
+<text x="169.0" y="249.7" text-anchor="middle" font-size="9" fill="#c3c2b7">Jan</text>
+<text x="234.0" y="263.2" text-anchor="middle" font-size="9" fill="#c3c2b7">Feb</text>
+<text x="286.0" y="274.0" text-anchor="middle" font-size="9" fill="#c3c2b7">Mar</text>
+<text x="338.0" y="284.8" text-anchor="middle" font-size="9" fill="#c3c2b7">Apr</text>
+<text x="390.0" y="295.6" text-anchor="middle" font-size="9" fill="#c3c2b7">May</text>
+<text x="455.0" y="309.1" text-anchor="middle" font-size="9" fill="#c3c2b7">Jun</text>
+<text x="507.0" y="319.9" text-anchor="middle" font-size="9" fill="#c3c2b7">Jul</text>
+<text x="559.0" y="330.7" text-anchor="middle" font-size="9" fill="#c3c2b7">Aug</text>
+<text x="624.0" y="344.2" text-anchor="middle" font-size="9" fill="#c3c2b7">Sep</text>
+<text x="676.0" y="355.0" text-anchor="middle" font-size="9" fill="#c3c2b7">Oct</text>
+<text x="741.0" y="368.5" text-anchor="middle" font-size="9" fill="#c3c2b7">Nov</text>
+<g class="bar" data-date="2025-11-02" data-n="1" data-depth="000">
+<polygon points="123.1,174.7 133.2,176.8 133.2,179.9 123.1,177.8" fill="#173b66"/>
+<polygon points="133.2,176.8 140.2,172.5 140.2,175.5 133.2,179.9" fill="#122d4e"/>
+<polygon points="130.1,170.4 140.2,172.5 133.2,176.8 123.1,174.7" fill="#3b669c"/></g>
+<g class="bar" data-date="2025-11-03" data-n="0" data-depth="001">
+<polygon points="121.1,179.0 131.2,181.1 124.2,185.5 114.1,183.4" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-09" data-n="0" data-depth="001">
+<polygon points="143.1,176.1 153.2,178.2 146.2,182.6 136.1,180.5" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-04" data-n="0" data-depth="002">
+<polygon points="112.1,184.6 122.2,186.7 115.2,191.1 105.1,189.0" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-10" data-n="0" data-depth="002">
+<polygon points="134.1,181.7 144.2,183.8 137.2,188.2 127.1,186.1" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-16" data-n="0" data-depth="002">
+<polygon points="156.1,178.8 166.2,180.9 159.2,185.3 149.1,183.2" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-05" data-n="0" data-depth="003">
+<polygon points="103.1,190.2 113.2,192.3 106.2,196.7 96.1,194.6" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-11" data-n="0" data-depth="003">
+<polygon points="125.1,187.3 135.2,189.4 128.2,193.8 118.1,191.7" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-17" data-n="0" data-depth="003">
+<polygon points="147.1,184.4 157.2,186.5 150.2,190.9 140.1,188.8" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-23" data-n="0" data-depth="003">
+<polygon points="169.1,181.5 179.2,183.6 172.2,188.0 162.1,185.9" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-06" data-n="1" data-depth="004">
+<polygon points="87.1,197.1 97.2,199.2 97.2,202.3 87.1,200.2" fill="#173b66"/>
+<polygon points="97.2,199.2 104.2,194.9 104.2,197.9 97.2,202.3" fill="#122d4e"/>
+<polygon points="94.1,192.8 104.2,194.9 97.2,199.2 87.1,197.1" fill="#3b669c"/></g>
+<g class="bar" data-date="2025-11-12" data-n="0" data-depth="004">
+<polygon points="116.1,192.9 126.2,195.0 119.2,199.4 109.1,197.3" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-18" data-n="0" data-depth="004">
+<polygon points="138.1,190.0 148.2,192.1 141.2,196.5 131.1,194.4" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-24" data-n="0" data-depth="004">
+<polygon points="160.1,187.1 170.2,189.2 163.2,193.6 153.1,191.5" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-30" data-n="0" data-depth="004">
+<polygon points="182.1,184.2 192.2,186.3 185.2,190.7 175.1,188.6" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-07" data-n="0" data-depth="005">
+<polygon points="85.1,201.4 95.2,203.5 88.2,207.9 78.1,205.8" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-13" data-n="0" data-depth="005">
+<polygon points="107.1,198.5 117.2,200.6 110.2,205.0 100.1,202.9" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-19" data-n="0" data-depth="005">
+<polygon points="129.1,195.6 139.2,197.7 132.2,202.1 122.1,200.0" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-25" data-n="0" data-depth="005">
+<polygon points="151.1,192.7 161.2,194.8 154.2,199.2 144.1,197.1" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-01" data-n="0" data-depth="005">
+<polygon points="173.1,189.8 183.2,191.9 176.2,196.3 166.1,194.2" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-07" data-n="0" data-depth="005">
+<polygon points="195.1,186.9 205.2,189.0 198.2,193.4 188.1,191.3" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-08" data-n="0" data-depth="006">
+<polygon points="76.1,207.0 86.2,209.1 79.2,213.5 69.1,211.4" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-14" data-n="0" data-depth="006">
+<polygon points="98.1,204.1 108.2,206.2 101.2,210.6 91.1,208.5" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-20" data-n="0" data-depth="006">
+<polygon points="120.1,201.2 130.2,203.3 123.2,207.7 113.1,205.6" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-26" data-n="0" data-depth="006">
+<polygon points="142.1,198.3 152.2,200.4 145.2,204.8 135.1,202.7" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-02" data-n="0" data-depth="006">
+<polygon points="164.1,195.4 174.2,197.5 167.2,201.9 157.1,199.8" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-08" data-n="0" data-depth="006">
+<polygon points="186.1,192.5 196.2,194.6 189.2,199.0 179.1,196.9" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-14" data-n="0" data-depth="006">
+<polygon points="208.1,189.6 218.2,191.7 211.2,196.1 201.1,194.0" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-15" data-n="0" data-depth="007">
+<polygon points="89.1,209.7 99.2,211.8 92.2,216.2 82.1,214.1" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-21" data-n="0" data-depth="007">
+<polygon points="111.1,206.8 121.2,208.9 114.2,213.3 104.1,211.2" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-27" data-n="0" data-depth="007">
+<polygon points="133.1,203.9 143.2,206.0 136.2,210.4 126.1,208.3" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-03" data-n="0" data-depth="007">
+<polygon points="155.1,201.0 165.2,203.1 158.2,207.5 148.1,205.4" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-09" data-n="0" data-depth="007">
+<polygon points="177.1,198.1 187.2,200.2 180.2,204.6 170.1,202.5" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-15" data-n="0" data-depth="007">
+<polygon points="199.1,195.2 209.2,197.3 202.2,201.7 192.1,199.6" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-21" data-n="36" data-depth="007">
+<polygon points="214.1,178.5 224.2,180.6 224.2,198.8 214.1,196.7" fill="#2961a4"/>
+<polygon points="224.2,180.6 231.2,176.2 231.2,194.4 224.2,198.8" fill="#1f4a7d"/>
+<polygon points="221.1,174.1 231.2,176.2 224.2,180.6 214.1,178.5" fill="#5095e8"/></g>
+<g class="bar" data-date="2025-11-22" data-n="0" data-depth="008">
+<polygon points="102.1,212.4 112.2,214.5 105.2,218.9 95.1,216.8" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-28" data-n="0" data-depth="008">
+<polygon points="124.1,209.5 134.2,211.6 127.2,216.0 117.1,213.9" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-04" data-n="0" data-depth="008">
+<polygon points="146.1,206.6 156.2,208.7 149.2,213.1 139.1,211.0" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-10" data-n="0" data-depth="008">
+<polygon points="168.1,203.7 178.2,205.8 171.2,210.2 161.1,208.1" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-16" data-n="0" data-depth="008">
+<polygon points="190.1,200.8 200.2,202.9 193.2,207.3 183.1,205.2" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-22" data-n="4" data-depth="008">
+<polygon points="205.1,196.2 215.2,198.3 215.2,204.4 205.1,202.3" fill="#173b66"/>
+<polygon points="215.2,198.3 222.2,193.9 222.2,200.0 215.2,204.4" fill="#122d4e"/>
+<polygon points="212.1,191.8 222.2,193.9 215.2,198.3 205.1,196.2" fill="#3b669c"/></g>
+<g class="bar" data-date="2025-12-28" data-n="0" data-depth="008">
+<polygon points="234.1,195.0 244.2,197.1 237.2,201.5 227.1,199.4" fill="#383835"/></g>
+<g class="bar" data-date="2025-11-29" data-n="0" data-depth="009">
+<polygon points="115.1,215.1 125.2,217.2 118.2,221.6 108.1,219.5" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-05" data-n="0" data-depth="009">
+<polygon points="137.1,212.2 147.2,214.3 140.2,218.7 130.1,216.6" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-11" data-n="0" data-depth="009">
+<polygon points="159.1,209.3 169.2,211.4 162.2,215.8 152.1,213.7" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-17" data-n="0" data-depth="009">
+<polygon points="181.1,206.4 191.2,208.5 184.2,212.9 174.1,210.8" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-23" data-n="0" data-depth="009">
+<polygon points="203.1,203.5 213.2,205.6 206.2,210.0 196.1,207.9" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-29" data-n="0" data-depth="009">
+<polygon points="225.1,200.6 235.2,202.7 228.2,207.1 218.1,205.0" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-04" data-n="0" data-depth="009">
+<polygon points="247.1,197.7 257.2,199.8 250.2,204.2 240.1,202.1" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-06" data-n="0" data-depth="010">
+<polygon points="128.1,217.8 138.2,219.9 131.2,224.3 121.1,222.2" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-12" data-n="0" data-depth="010">
+<polygon points="150.1,214.9 160.2,217.0 153.2,221.4 143.1,219.3" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-18" data-n="0" data-depth="010">
+<polygon points="172.1,212.0 182.2,214.1 175.2,218.5 165.1,216.4" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-24" data-n="0" data-depth="010">
+<polygon points="194.1,209.1 204.2,211.2 197.2,215.6 187.1,213.5" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-30" data-n="0" data-depth="010">
+<polygon points="216.1,206.2 226.2,208.3 219.2,212.7 209.1,210.6" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-05" data-n="0" data-depth="010">
+<polygon points="238.1,203.3 248.2,205.4 241.2,209.8 231.1,207.7" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-11" data-n="0" data-depth="010">
+<polygon points="260.1,200.4 270.2,202.5 263.2,206.9 253.1,204.8" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-13" data-n="0" data-depth="011">
+<polygon points="141.1,220.5 151.2,222.6 144.2,227.0 134.1,224.9" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-19" data-n="0" data-depth="011">
+<polygon points="163.1,217.6 173.2,219.7 166.2,224.1 156.1,222.0" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-25" data-n="0" data-depth="011">
+<polygon points="185.1,214.7 195.2,216.8 188.2,221.2 178.1,219.1" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-31" data-n="0" data-depth="011">
+<polygon points="207.1,211.8 217.2,213.9 210.2,218.3 200.1,216.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-06" data-n="0" data-depth="011">
+<polygon points="229.1,208.9 239.2,211.0 232.2,215.4 222.1,213.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-12" data-n="0" data-depth="011">
+<polygon points="251.1,206.0 261.2,208.1 254.2,212.5 244.1,210.4" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-18" data-n="0" data-depth="011">
+<polygon points="273.1,203.1 283.2,205.2 276.2,209.6 266.1,207.5" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-20" data-n="0" data-depth="012">
+<polygon points="154.1,223.2 164.2,225.3 157.2,229.7 147.1,227.6" fill="#383835"/></g>
+<g class="bar" data-date="2025-12-26" data-n="0" data-depth="012">
+<polygon points="176.1,220.3 186.2,222.4 179.2,226.8 169.1,224.7" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-01" data-n="0" data-depth="012">
+<polygon points="198.1,217.4 208.2,219.5 201.2,223.9 191.1,221.8" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-07" data-n="1" data-depth="012">
+<polygon points="213.1,215.8 223.2,217.9 223.2,221.0 213.1,218.9" fill="#173b66"/>
+<polygon points="223.2,217.9 230.2,213.6 230.2,216.6 223.2,221.0" fill="#122d4e"/>
+<polygon points="220.1,211.5 230.2,213.6 223.2,217.9 213.1,215.8" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-01-13" data-n="0" data-depth="012">
+<polygon points="242.1,211.6 252.2,213.7 245.2,218.1 235.1,216.0" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-19" data-n="0" data-depth="012">
+<polygon points="264.1,208.7 274.2,210.8 267.2,215.2 257.1,213.1" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-25" data-n="41" data-depth="012">
+<polygon points="279.1,190.8 289.2,192.9 289.2,212.3 279.1,210.2" fill="#2961a4"/>
+<polygon points="289.2,192.9 296.2,188.5 296.2,207.9 289.2,212.3" fill="#1f4a7d"/>
+<polygon points="286.1,186.4 296.2,188.5 289.2,192.9 279.1,190.8" fill="#5095e8"/></g>
+<g class="bar" data-date="2025-12-27" data-n="0" data-depth="013">
+<polygon points="167.1,225.9 177.2,228.0 170.2,232.4 160.1,230.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-02" data-n="0" data-depth="013">
+<polygon points="189.1,223.0 199.2,225.1 192.2,229.5 182.1,227.4" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-08" data-n="2" data-depth="013">
+<polygon points="204.1,220.2 214.2,222.3 214.2,226.6 204.1,224.5" fill="#173b66"/>
+<polygon points="214.2,222.3 221.2,217.9 221.2,222.2 214.2,226.6" fill="#122d4e"/>
+<polygon points="211.1,215.8 221.2,217.9 214.2,222.3 204.1,220.2" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-01-14" data-n="0" data-depth="013">
+<polygon points="233.1,217.2 243.2,219.3 236.2,223.7 226.1,221.6" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-20" data-n="0" data-depth="013">
+<polygon points="255.1,214.3 265.2,216.4 258.2,220.8 248.1,218.7" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-26" data-n="0" data-depth="013">
+<polygon points="277.1,211.4 287.2,213.5 280.2,217.9 270.1,215.8" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-01" data-n="0" data-depth="013">
+<polygon points="299.1,208.5 309.2,210.6 302.2,215.0 292.1,212.9" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-03" data-n="0" data-depth="014">
+<polygon points="180.1,228.6 190.2,230.7 183.2,235.1 173.1,233.0" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-09" data-n="0" data-depth="014">
+<polygon points="202.1,225.7 212.2,227.8 205.2,232.2 195.1,230.1" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-15" data-n="0" data-depth="014">
+<polygon points="224.1,222.8 234.2,224.9 227.2,229.3 217.1,227.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-21" data-n="0" data-depth="014">
+<polygon points="246.1,219.9 256.2,222.0 249.2,226.4 239.1,224.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-27" data-n="0" data-depth="014">
+<polygon points="268.1,217.0 278.2,219.1 271.2,223.5 261.1,221.4" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-02" data-n="0" data-depth="014">
+<polygon points="290.1,214.1 300.2,216.2 293.2,220.6 283.1,218.5" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-08" data-n="8" data-depth="014">
+<polygon points="305.1,207.0 315.2,209.1 315.2,217.7 305.1,215.6" fill="#1f4d8a"/>
+<polygon points="315.2,209.1 322.2,204.7 322.2,213.3 315.2,217.7" fill="#183b69"/>
+<polygon points="312.1,202.6 322.2,204.7 315.2,209.1 305.1,207.0" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-01-10" data-n="4" data-depth="015">
+<polygon points="186.1,229.6 196.2,231.7 196.2,237.8 186.1,235.7" fill="#173b66"/>
+<polygon points="196.2,231.7 203.2,227.3 203.2,233.4 196.2,237.8" fill="#122d4e"/>
+<polygon points="193.1,225.2 203.2,227.3 196.2,231.7 186.1,229.6" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-01-16" data-n="0" data-depth="015">
+<polygon points="215.1,228.4 225.2,230.5 218.2,234.9 208.1,232.8" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-22" data-n="0" data-depth="015">
+<polygon points="237.1,225.5 247.2,227.6 240.2,232.0 230.1,229.9" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-28" data-n="0" data-depth="015">
+<polygon points="259.1,222.6 269.2,224.7 262.2,229.1 252.1,227.0" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-03" data-n="0" data-depth="015">
+<polygon points="281.1,219.7 291.2,221.8 284.2,226.2 274.1,224.1" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-09" data-n="0" data-depth="015">
+<polygon points="303.1,216.8 313.2,218.9 306.2,223.3 296.1,221.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-15" data-n="0" data-depth="015">
+<polygon points="325.1,213.9 335.2,216.0 328.2,220.4 318.1,218.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-17" data-n="0" data-depth="016">
+<polygon points="206.1,234.0 216.2,236.1 209.2,240.5 199.1,238.4" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-23" data-n="0" data-depth="016">
+<polygon points="228.1,231.1 238.2,233.2 231.2,237.6 221.1,235.5" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-29" data-n="0" data-depth="016">
+<polygon points="250.1,228.2 260.2,230.3 253.2,234.7 243.1,232.6" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-04" data-n="0" data-depth="016">
+<polygon points="272.1,225.3 282.2,227.4 275.2,231.8 265.1,229.7" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-10" data-n="0" data-depth="016">
+<polygon points="294.1,222.4 304.2,224.5 297.2,228.9 287.1,226.8" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-16" data-n="0" data-depth="016">
+<polygon points="316.1,219.5 326.2,221.6 319.2,226.0 309.1,223.9" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-22" data-n="4" data-depth="016">
+<polygon points="331.1,214.9 341.2,217.0 341.2,223.1 331.1,221.0" fill="#173b66"/>
+<polygon points="341.2,217.0 348.2,212.6 348.2,218.7 341.2,223.1" fill="#122d4e"/>
+<polygon points="338.1,210.5 348.2,212.6 341.2,217.0 331.1,214.9" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-01-24" data-n="0" data-depth="017">
+<polygon points="219.1,236.7 229.2,238.8 222.2,243.2 212.1,241.1" fill="#383835"/></g>
+<g class="bar" data-date="2026-01-30" data-n="0" data-depth="017">
+<polygon points="241.1,233.8 251.2,235.9 244.2,240.3 234.1,238.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-05" data-n="0" data-depth="017">
+<polygon points="263.1,230.9 273.2,233.0 266.2,237.4 256.1,235.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-11" data-n="0" data-depth="017">
+<polygon points="285.1,228.0 295.2,230.1 288.2,234.5 278.1,232.4" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-17" data-n="0" data-depth="017">
+<polygon points="307.1,225.1 317.2,227.2 310.2,231.6 300.1,229.5" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-23" data-n="0" data-depth="017">
+<polygon points="329.1,222.2 339.2,224.3 332.2,228.7 322.1,226.6" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-01" data-n="17" data-depth="017">
+<polygon points="344.1,211.2 354.2,213.3 354.2,225.8 344.1,223.7" fill="#1f4d8a"/>
+<polygon points="354.2,213.3 361.2,208.9 361.2,221.4 354.2,225.8" fill="#183b69"/>
+<polygon points="351.1,206.8 361.2,208.9 354.2,213.3 344.1,211.2" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-01-31" data-n="0" data-depth="018">
+<polygon points="232.1,239.4 242.2,241.5 235.2,245.9 225.1,243.8" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-06" data-n="0" data-depth="018">
+<polygon points="254.1,236.5 264.2,238.6 257.2,243.0 247.1,240.9" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-12" data-n="8" data-depth="018">
+<polygon points="269.1,229.4 279.2,231.5 279.2,240.1 269.1,238.0" fill="#1f4d8a"/>
+<polygon points="279.2,231.5 286.2,227.1 286.2,235.7 279.2,240.1" fill="#183b69"/>
+<polygon points="276.1,225.0 286.2,227.1 279.2,231.5 269.1,229.4" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-02-18" data-n="13" data-depth="018">
+<polygon points="291.1,224.1 301.2,226.3 301.2,237.2 291.1,235.1" fill="#1f4d8a"/>
+<polygon points="301.2,226.3 308.2,221.9 308.2,232.8 301.2,237.2" fill="#183b69"/>
+<polygon points="298.1,219.8 308.2,221.9 301.2,226.3 291.1,224.1" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-02-24" data-n="0" data-depth="018">
+<polygon points="320.1,227.8 330.2,229.9 323.2,234.3 313.1,232.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-02" data-n="18" data-depth="018">
+<polygon points="335.1,216.4 345.2,218.5 345.2,231.4 335.1,229.3" fill="#1f4d8a"/>
+<polygon points="345.2,218.5 352.2,214.2 352.2,227.0 345.2,231.4" fill="#183b69"/>
+<polygon points="342.1,212.0 352.2,214.2 345.2,218.5 335.1,216.4" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-03-08" data-n="0" data-depth="018">
+<polygon points="364.1,222.0 374.2,224.1 367.2,228.5 357.1,226.4" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-07" data-n="12" data-depth="019">
+<polygon points="238.1,236.0 248.2,238.1 248.2,248.6 238.1,246.5" fill="#1f4d8a"/>
+<polygon points="248.2,238.1 255.2,233.7 255.2,244.2 248.2,248.6" fill="#183b69"/>
+<polygon points="245.1,231.6 255.2,233.7 248.2,238.1 238.1,236.0" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-02-13" data-n="0" data-depth="019">
+<polygon points="267.1,239.2 277.2,241.3 270.2,245.7 260.1,243.6" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-19" data-n="5" data-depth="019">
+<polygon points="282.1,233.9 292.2,236.0 292.2,242.8 282.1,240.7" fill="#173b66"/>
+<polygon points="292.2,236.0 299.2,231.6 299.2,238.4 292.2,242.8" fill="#122d4e"/>
+<polygon points="289.1,229.5 299.2,231.6 292.2,236.0 282.1,233.9" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-02-25" data-n="3" data-depth="019">
+<polygon points="304.1,232.5 314.2,234.6 314.2,239.9 304.1,237.8" fill="#173b66"/>
+<polygon points="314.2,234.6 321.2,230.3 321.2,235.5 314.2,239.9" fill="#122d4e"/>
+<polygon points="311.1,228.2 321.2,230.3 314.2,234.6 304.1,232.5" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-03-03" data-n="4" data-depth="019">
+<polygon points="326.1,228.8 336.2,230.9 336.2,237.0 326.1,234.9" fill="#173b66"/>
+<polygon points="336.2,230.9 343.2,226.5 343.2,232.6 336.2,237.0" fill="#122d4e"/>
+<polygon points="333.1,224.4 343.2,226.5 336.2,230.9 326.1,228.8" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-03-09" data-n="0" data-depth="019">
+<polygon points="355.1,227.6 365.2,229.7 358.2,234.1 348.1,232.0" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-15" data-n="35" data-depth="019">
+<polygon points="370.1,211.1 380.2,213.3 380.2,231.2 370.1,229.1" fill="#2961a4"/>
+<polygon points="380.2,213.3 387.2,208.9 387.2,226.8 380.2,231.2" fill="#1f4a7d"/>
+<polygon points="377.1,206.8 387.2,208.9 380.2,213.3 370.1,211.1" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-02-14" data-n="0" data-depth="020">
+<polygon points="258.1,244.8 268.2,246.9 261.2,251.3 251.1,249.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-20" data-n="0" data-depth="020">
+<polygon points="280.1,241.9 290.2,244.0 283.2,248.4 273.1,246.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-26" data-n="25" data-depth="020">
+<polygon points="295.1,228.2 305.2,230.3 305.2,245.5 295.1,243.4" fill="#2961a4"/>
+<polygon points="305.2,230.3 312.2,226.0 312.2,241.1 305.2,245.5" fill="#1f4a7d"/>
+<polygon points="302.1,223.9 312.2,226.0 305.2,230.3 295.1,228.2" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-03-04" data-n="0" data-depth="020">
+<polygon points="324.1,236.1 334.2,238.2 327.2,242.6 317.1,240.5" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-10" data-n="0" data-depth="020">
+<polygon points="346.1,233.2 356.2,235.3 349.2,239.7 339.1,237.6" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-16" data-n="3" data-depth="020">
+<polygon points="361.1,229.4 371.2,231.5 371.2,236.8 361.1,234.7" fill="#173b66"/>
+<polygon points="371.2,231.5 378.2,227.2 378.2,232.4 371.2,236.8" fill="#122d4e"/>
+<polygon points="368.1,225.1 378.2,227.2 371.2,231.5 361.1,229.4" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-03-22" data-n="45" data-depth="020">
+<polygon points="383.1,211.4 393.2,213.6 393.2,233.9 383.1,231.8" fill="#5379ab"/>
+<polygon points="393.2,213.6 400.2,209.2 400.2,229.5 393.2,233.9" fill="#3f5c82"/>
+<polygon points="390.1,207.1 400.2,209.2 393.2,213.6 383.1,211.4" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-02-21" data-n="0" data-depth="021">
+<polygon points="271.1,247.5 281.2,249.6 274.2,254.0 264.1,251.9" fill="#383835"/></g>
+<g class="bar" data-date="2026-02-27" data-n="30" data-depth="021">
+<polygon points="286.1,232.4 296.2,234.5 296.2,251.1 286.1,249.0" fill="#2961a4"/>
+<polygon points="296.2,234.5 303.2,230.1 303.2,246.7 296.2,251.1" fill="#1f4a7d"/>
+<polygon points="293.1,228.0 303.2,230.1 296.2,234.5 286.1,232.4" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-03-05" data-n="0" data-depth="021">
+<polygon points="315.1,241.7 325.2,243.8 318.2,248.2 308.1,246.1" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-11" data-n="0" data-depth="021">
+<polygon points="337.1,238.8 347.2,240.9 340.2,245.3 330.1,243.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-17" data-n="0" data-depth="021">
+<polygon points="359.1,235.9 369.2,238.0 362.2,242.4 352.1,240.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-23" data-n="9" data-depth="021">
+<polygon points="374.1,228.3 384.2,230.4 384.2,239.5 374.1,237.4" fill="#1f4d8a"/>
+<polygon points="384.2,230.4 391.2,226.0 391.2,235.1 384.2,239.5" fill="#183b69"/>
+<polygon points="381.1,223.9 391.2,226.0 384.2,230.4 374.1,228.3" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-03-29" data-n="1" data-depth="021">
+<polygon points="396.1,231.4 406.2,233.5 406.2,236.6 396.1,234.5" fill="#173b66"/>
+<polygon points="406.2,233.5 413.2,229.2 413.2,232.2 406.2,236.6" fill="#122d4e"/>
+<polygon points="403.1,227.1 413.2,229.2 406.2,233.5 396.1,231.4" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-02-28" data-n="0" data-depth="022">
+<polygon points="284.1,250.2 294.2,252.3 287.2,256.7 277.1,254.6" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-06" data-n="0" data-depth="022">
+<polygon points="306.1,247.3 316.2,249.4 309.2,253.8 299.1,251.7" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-12" data-n="4" data-depth="022">
+<polygon points="321.1,242.7 331.2,244.8 331.2,250.9 321.1,248.8" fill="#173b66"/>
+<polygon points="331.2,244.8 338.2,240.4 338.2,246.5 331.2,250.9" fill="#122d4e"/>
+<polygon points="328.1,238.3 338.2,240.4 331.2,244.8 321.1,242.7" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-03-18" data-n="3" data-depth="022">
+<polygon points="343.1,240.6 353.2,242.7 353.2,248.0 343.1,245.9" fill="#173b66"/>
+<polygon points="353.2,242.7 360.2,238.4 360.2,243.6 353.2,248.0" fill="#122d4e"/>
+<polygon points="350.1,236.3 360.2,238.4 353.2,242.7 343.1,240.6" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-03-24" data-n="2" data-depth="022">
+<polygon points="365.1,238.7 375.2,240.8 375.2,245.1 365.1,243.0" fill="#173b66"/>
+<polygon points="375.2,240.8 382.2,236.4 382.2,240.7 375.2,245.1" fill="#122d4e"/>
+<polygon points="372.1,234.3 382.2,236.4 375.2,240.8 365.1,238.7" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-03-30" data-n="0" data-depth="022">
+<polygon points="394.1,235.7 404.2,237.8 397.2,242.2 387.1,240.1" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-05" data-n="7" data-depth="022">
+<polygon points="409.1,229.2 419.2,231.3 419.2,239.3 409.1,237.2" fill="#1f4d8a"/>
+<polygon points="419.2,231.3 426.2,226.9 426.2,234.9 419.2,239.3" fill="#183b69"/>
+<polygon points="416.1,224.8 426.2,226.9 419.2,231.3 409.1,229.2" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-03-07" data-n="0" data-depth="023">
+<polygon points="297.1,252.9 307.2,255.0 300.2,259.4 290.1,257.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-13" data-n="17" data-depth="023">
+<polygon points="312.1,241.9 322.2,244.0 322.2,256.5 312.1,254.4" fill="#1f4d8a"/>
+<polygon points="322.2,244.0 329.2,239.6 329.2,252.1 322.2,256.5" fill="#183b69"/>
+<polygon points="319.1,237.5 329.2,239.6 322.2,244.0 312.1,241.9" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-03-19" data-n="13" data-depth="023">
+<polygon points="334.1,240.5 344.2,242.7 344.2,253.6 334.1,251.5" fill="#1f4d8a"/>
+<polygon points="344.2,242.7 351.2,238.3 351.2,249.2 344.2,253.6" fill="#183b69"/>
+<polygon points="341.1,236.2 351.2,238.3 344.2,242.7 334.1,240.5" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-03-25" data-n="2" data-depth="023">
+<polygon points="356.1,244.3 366.2,246.4 366.2,250.7 356.1,248.6" fill="#173b66"/>
+<polygon points="366.2,246.4 373.2,242.0 373.2,246.3 366.2,250.7" fill="#122d4e"/>
+<polygon points="363.1,239.9 373.2,242.0 366.2,246.4 356.1,244.3" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-03-31" data-n="0" data-depth="023">
+<polygon points="385.1,241.3 395.2,243.4 388.2,247.8 378.1,245.7" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-06" data-n="3" data-depth="023">
+<polygon points="400.1,237.5 410.2,239.6 410.2,244.9 400.1,242.8" fill="#173b66"/>
+<polygon points="410.2,239.6 417.2,235.3 417.2,240.5 410.2,244.9" fill="#122d4e"/>
+<polygon points="407.1,233.2 417.2,235.3 410.2,239.6 400.1,237.5" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-04-12" data-n="20" data-depth="023">
+<polygon points="422.1,226.3 432.2,228.4 432.2,242.0 422.1,239.9" fill="#2961a4"/>
+<polygon points="432.2,228.4 439.2,224.1 439.2,237.6 432.2,242.0" fill="#1f4a7d"/>
+<polygon points="429.1,222.0 439.2,224.1 432.2,228.4 422.1,226.3" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-03-14" data-n="14" data-depth="024">
+<polygon points="303.1,248.6 313.2,250.7 313.2,262.1 303.1,260.0" fill="#1f4d8a"/>
+<polygon points="313.2,250.7 320.2,246.4 320.2,257.7 313.2,262.1" fill="#183b69"/>
+<polygon points="310.1,244.3 320.2,246.4 313.2,250.7 303.1,248.6" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-03-20" data-n="11" data-depth="024">
+<polygon points="325.1,247.0 335.2,249.1 335.2,259.2 325.1,257.1" fill="#1f4d8a"/>
+<polygon points="335.2,249.1 342.2,244.8 342.2,254.8 335.2,259.2" fill="#183b69"/>
+<polygon points="332.1,242.7 342.2,244.8 335.2,249.1 325.1,247.0" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-03-26" data-n="0" data-depth="024">
+<polygon points="354.1,249.8 364.2,251.9 357.2,256.3 347.1,254.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-01" data-n="0" data-depth="024">
+<polygon points="376.1,246.9 386.2,249.0 379.2,253.4 369.1,251.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-07" data-n="4" data-depth="024">
+<polygon points="391.1,242.3 401.2,244.4 401.2,250.5 391.1,248.4" fill="#173b66"/>
+<polygon points="401.2,244.4 408.2,240.0 408.2,246.1 401.2,250.5" fill="#122d4e"/>
+<polygon points="398.1,237.9 408.2,240.0 401.2,244.4 391.1,242.3" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-04-13" data-n="1" data-depth="024">
+<polygon points="413.1,242.4 423.2,244.5 423.2,247.6 413.1,245.5" fill="#173b66"/>
+<polygon points="423.2,244.5 430.2,240.2 430.2,243.2 423.2,247.6" fill="#122d4e"/>
+<polygon points="420.1,238.1 430.2,240.2 423.2,244.5 413.1,242.4" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-04-19" data-n="0" data-depth="024">
+<polygon points="442.1,238.2 452.2,240.3 445.2,244.7 435.1,242.6" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-21" data-n="0" data-depth="025">
+<polygon points="323.1,258.3 333.2,260.4 326.2,264.8 316.1,262.7" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-27" data-n="0" data-depth="025">
+<polygon points="345.1,255.4 355.2,257.5 348.2,261.9 338.1,259.8" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-02" data-n="1" data-depth="025">
+<polygon points="360.1,253.8 370.2,255.9 370.2,259.0 360.1,256.9" fill="#173b66"/>
+<polygon points="370.2,255.9 377.2,251.6 377.2,254.6 370.2,259.0" fill="#122d4e"/>
+<polygon points="367.1,249.5 377.2,251.6 370.2,255.9 360.1,253.8" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-04-08" data-n="2" data-depth="025">
+<polygon points="382.1,249.7 392.2,251.8 392.2,256.1 382.1,254.0" fill="#173b66"/>
+<polygon points="392.2,251.8 399.2,247.4 399.2,251.7 392.2,256.1" fill="#122d4e"/>
+<polygon points="389.1,245.3 399.2,247.4 392.2,251.8 382.1,249.7" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-04-14" data-n="17" data-depth="025">
+<polygon points="404.1,238.6 414.2,240.7 414.2,253.2 404.1,251.1" fill="#1f4d8a"/>
+<polygon points="414.2,240.7 421.2,236.3 421.2,248.8 414.2,253.2" fill="#183b69"/>
+<polygon points="411.1,234.2 421.2,236.3 414.2,240.7 404.1,238.6" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-04-20" data-n="0" data-depth="025">
+<polygon points="433.1,243.8 443.2,245.9 436.2,250.3 426.1,248.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-26" data-n="0" data-depth="025">
+<polygon points="455.1,240.9 465.2,243.0 458.2,247.4 448.1,245.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-03-28" data-n="0" data-depth="026">
+<polygon points="336.1,261.0 346.2,263.1 339.2,267.5 329.1,265.4" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-03" data-n="0" data-depth="026">
+<polygon points="358.1,258.1 368.2,260.2 361.2,264.6 351.1,262.5" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-09" data-n="3" data-depth="026">
+<polygon points="373.1,254.3 383.2,256.4 383.2,261.7 373.1,259.6" fill="#173b66"/>
+<polygon points="383.2,256.4 390.2,252.1 390.2,257.3 383.2,261.7" fill="#122d4e"/>
+<polygon points="380.1,250.0 390.2,252.1 383.2,256.4 373.1,254.3" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-04-15" data-n="1" data-depth="026">
+<polygon points="395.1,253.6 405.2,255.7 405.2,258.8 395.1,256.7" fill="#173b66"/>
+<polygon points="405.2,255.7 412.2,251.4 412.2,254.4 405.2,258.8" fill="#122d4e"/>
+<polygon points="402.1,249.3 412.2,251.4 405.2,255.7 395.1,253.6" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-04-21" data-n="2" data-depth="026">
+<polygon points="417.1,249.5 427.2,251.6 427.2,255.9 417.1,253.8" fill="#173b66"/>
+<polygon points="427.2,251.6 434.2,247.2 434.2,251.5 427.2,255.9" fill="#122d4e"/>
+<polygon points="424.1,245.1 434.2,247.2 427.2,251.6 417.1,249.5" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-04-27" data-n="0" data-depth="026">
+<polygon points="446.1,246.5 456.2,248.6 449.2,253.0 439.1,250.9" fill="#383835"/></g>
+<g class="bar" data-date="2026-05-03" data-n="1" data-depth="026">
+<polygon points="461.1,244.9 471.2,247.0 471.2,250.1 461.1,248.0" fill="#173b66"/>
+<polygon points="471.2,247.0 478.2,242.7 478.2,245.7 471.2,250.1" fill="#122d4e"/>
+<polygon points="468.1,240.6 478.2,242.7 471.2,247.0 461.1,244.9" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-04-04" data-n="0" data-depth="027">
+<polygon points="349.1,263.7 359.2,265.8 352.2,270.2 342.1,268.1" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-10" data-n="0" data-depth="027">
+<polygon points="371.1,260.8 381.2,262.9 374.2,267.3 364.1,265.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-16" data-n="14" data-depth="027">
+<polygon points="386.1,250.9 396.2,253.0 396.2,264.4 386.1,262.3" fill="#1f4d8a"/>
+<polygon points="396.2,253.0 403.2,248.7 403.2,260.0 396.2,264.4" fill="#183b69"/>
+<polygon points="393.1,246.6 403.2,248.7 396.2,253.0 386.1,250.9" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-04-22" data-n="22" data-depth="027">
+<polygon points="408.1,245.2 418.2,247.3 418.2,261.5 408.1,259.4" fill="#2961a4"/>
+<polygon points="418.2,247.3 425.2,242.9 425.2,257.1 418.2,261.5" fill="#1f4a7d"/>
+<polygon points="415.1,240.8 425.2,242.9 418.2,247.3 408.1,245.2" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-04-28" data-n="5" data-depth="027">
+<polygon points="430.1,249.7 440.2,251.8 440.2,258.6 430.1,256.5" fill="#173b66"/>
+<polygon points="440.2,251.8 447.2,247.4 447.2,254.2 440.2,258.6" fill="#122d4e"/>
+<polygon points="437.1,245.3 447.2,247.4 440.2,251.8 430.1,249.7" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-05-04" data-n="1" data-depth="027">
+<polygon points="452.1,250.5 462.2,252.6 462.2,255.7 452.1,253.6" fill="#173b66"/>
+<polygon points="462.2,252.6 469.2,248.3 469.2,251.3 462.2,255.7" fill="#122d4e"/>
+<polygon points="459.1,246.2 469.2,248.3 462.2,252.6 452.1,250.5" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-05-10" data-n="5" data-depth="027">
+<polygon points="474.1,243.9 484.2,246.0 484.2,252.8 474.1,250.7" fill="#173b66"/>
+<polygon points="484.2,246.0 491.2,241.6 491.2,248.4 484.2,252.8" fill="#122d4e"/>
+<polygon points="481.1,239.5 491.2,241.6 484.2,246.0 474.1,243.9" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-04-11" data-n="0" data-depth="028">
+<polygon points="362.1,266.4 372.2,268.5 365.2,272.9 355.1,270.8" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-17" data-n="25" data-depth="028">
+<polygon points="377.1,252.7 387.2,254.8 387.2,270.0 377.1,267.9" fill="#2961a4"/>
+<polygon points="387.2,254.8 394.2,250.5 394.2,265.6 387.2,270.0" fill="#1f4a7d"/>
+<polygon points="384.1,248.4 394.2,250.5 387.2,254.8 377.1,252.7" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-04-23" data-n="54" data-depth="028">
+<polygon points="399.1,242.7 409.2,244.8 409.2,267.1 399.1,265.0" fill="#5379ab"/>
+<polygon points="409.2,244.8 416.2,240.4 416.2,262.7 409.2,267.1" fill="#3f5c82"/>
+<polygon points="406.1,238.3 416.2,240.4 409.2,244.8 399.1,242.7" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-04-29" data-n="1" data-depth="028">
+<polygon points="421.1,259.0 431.2,261.1 431.2,264.2 421.1,262.1" fill="#173b66"/>
+<polygon points="431.2,261.1 438.2,256.8 438.2,259.8 431.2,264.2" fill="#122d4e"/>
+<polygon points="428.1,254.7 438.2,256.8 431.2,261.1 421.1,259.0" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-05-05" data-n="70" data-depth="028">
+<polygon points="443.1,233.8 453.2,235.9 453.2,261.3 443.1,259.2" fill="#5379ab"/>
+<polygon points="453.2,235.9 460.2,231.6 460.2,256.9 453.2,261.3" fill="#3f5c82"/>
+<polygon points="450.1,229.5 460.2,231.6 453.2,235.9 443.1,233.8" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-05-11" data-n="7" data-depth="028">
+<polygon points="465.1,248.3 475.2,250.4 475.2,258.4 465.1,256.3" fill="#1f4d8a"/>
+<polygon points="475.2,250.4 482.2,246.0 482.2,254.0 475.2,258.4" fill="#183b69"/>
+<polygon points="472.1,243.9 482.2,246.0 475.2,250.4 465.1,248.3" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-05-17" data-n="63" data-depth="028">
+<polygon points="487.1,229.3 497.2,231.4 497.2,255.5 487.1,253.4" fill="#5379ab"/>
+<polygon points="497.2,231.4 504.2,227.1 504.2,251.1 497.2,255.5" fill="#3f5c82"/>
+<polygon points="494.1,225.0 504.2,227.1 497.2,231.4 487.1,229.3" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-04-18" data-n="0" data-depth="029">
+<polygon points="375.1,269.1 385.2,271.2 378.2,275.6 368.1,273.5" fill="#383835"/></g>
+<g class="bar" data-date="2026-04-24" data-n="43" data-depth="029">
+<polygon points="390.1,250.7 400.2,252.8 400.2,272.7 390.1,270.6" fill="#2961a4"/>
+<polygon points="400.2,252.8 407.2,248.4 407.2,268.3 400.2,272.7" fill="#1f4a7d"/>
+<polygon points="397.1,246.3 407.2,248.4 400.2,252.8 390.1,250.7" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-04-30" data-n="7" data-depth="029">
+<polygon points="412.1,259.7 422.2,261.8 422.2,269.8 412.1,267.7" fill="#1f4d8a"/>
+<polygon points="422.2,261.8 429.2,257.4 429.2,265.4 422.2,269.8" fill="#183b69"/>
+<polygon points="419.1,255.3 429.2,257.4 422.2,261.8 412.1,259.7" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-05-06" data-n="45" data-depth="029">
+<polygon points="434.1,244.4 444.2,246.6 444.2,266.9 434.1,264.8" fill="#5379ab"/>
+<polygon points="444.2,246.6 451.2,242.2 451.2,262.5 444.2,266.9" fill="#3f5c82"/>
+<polygon points="441.1,240.1 451.2,242.2 444.2,246.6 434.1,244.4" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-05-12" data-n="8" data-depth="029">
+<polygon points="456.1,253.3 466.2,255.4 466.2,264.0 456.1,261.9" fill="#1f4d8a"/>
+<polygon points="466.2,255.4 473.2,251.0 473.2,259.6 466.2,264.0" fill="#183b69"/>
+<polygon points="463.1,248.9 473.2,251.0 466.2,255.4 456.1,253.3" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-05-18" data-n="25" data-depth="029">
+<polygon points="478.1,243.8 488.2,245.9 488.2,261.1 478.1,259.0" fill="#2961a4"/>
+<polygon points="488.2,245.9 495.2,241.6 495.2,256.7 488.2,261.1" fill="#1f4a7d"/>
+<polygon points="485.1,239.5 495.2,241.6 488.2,245.9 478.1,243.8" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-05-24" data-n="18" data-depth="029">
+<polygon points="500.1,243.2 510.2,245.3 510.2,258.2 500.1,256.1" fill="#1f4d8a"/>
+<polygon points="510.2,245.3 517.2,241.0 517.2,253.8 510.2,258.2" fill="#183b69"/>
+<polygon points="507.1,238.8 517.2,241.0 510.2,245.3 500.1,243.2" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-04-25" data-n="0" data-depth="030">
+<polygon points="388.1,271.8 398.2,273.9 391.2,278.3 381.1,276.2" fill="#383835"/></g>
+<g class="bar" data-date="2026-05-01" data-n="0" data-depth="030">
+<polygon points="410.1,268.9 420.2,271.0 413.2,275.4 403.1,273.3" fill="#383835"/></g>
+<g class="bar" data-date="2026-05-07" data-n="31" data-depth="030">
+<polygon points="425.1,253.5 435.2,255.6 435.2,272.5 425.1,270.4" fill="#2961a4"/>
+<polygon points="435.2,255.6 442.2,251.2 442.2,268.1 435.2,272.5" fill="#1f4a7d"/>
+<polygon points="432.1,249.1 442.2,251.2 435.2,255.6 425.1,253.5" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-05-13" data-n="0" data-depth="030">
+<polygon points="454.1,263.1 464.2,265.2 457.2,269.6 447.1,267.5" fill="#383835"/></g>
+<g class="bar" data-date="2026-05-19" data-n="81" data-depth="030">
+<polygon points="469.1,237.3 479.2,239.4 479.2,266.7 469.1,264.6" fill="#5379ab"/>
+<polygon points="479.2,239.4 486.2,235.0 486.2,262.3 479.2,266.7" fill="#3f5c82"/>
+<polygon points="476.1,232.9 486.2,235.0 479.2,239.4 469.1,237.3" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-05-25" data-n="51" data-depth="030">
+<polygon points="491.1,240.0 501.2,242.1 501.2,263.8 491.1,261.7" fill="#5379ab"/>
+<polygon points="501.2,242.1 508.2,237.8 508.2,259.4 501.2,263.8" fill="#3f5c82"/>
+<polygon points="498.1,235.7 508.2,237.8 501.2,242.1 491.1,240.0" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-05-31" data-n="110" data-depth="030">
+<polygon points="513.1,227.0 523.2,229.1 523.2,260.9 513.1,258.8" fill="#8599b1"/>
+<polygon points="523.2,229.1 530.2,224.7 530.2,256.5 523.2,260.9" fill="#657587"/>
+<polygon points="520.1,222.6 530.2,224.7 523.2,229.1 513.1,227.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-05-02" data-n="0" data-depth="031">
+<polygon points="401.1,274.5 411.2,276.6 404.2,281.0 394.1,278.9" fill="#383835"/></g>
+<g class="bar" data-date="2026-05-08" data-n="3" data-depth="031">
+<polygon points="416.1,270.7 426.2,272.8 426.2,278.1 416.1,276.0" fill="#173b66"/>
+<polygon points="426.2,272.8 433.2,268.5 433.2,273.7 426.2,278.1" fill="#122d4e"/>
+<polygon points="423.1,266.4 433.2,268.5 426.2,272.8 416.1,270.7" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-05-14" data-n="0" data-depth="031">
+<polygon points="445.1,268.7 455.2,270.8 448.2,275.2 438.1,273.1" fill="#383835"/></g>
+<g class="bar" data-date="2026-05-20" data-n="6" data-depth="031">
+<polygon points="460.1,262.7 470.2,264.9 470.2,272.3 460.1,270.2" fill="#173b66"/>
+<polygon points="470.2,264.9 477.2,260.5 477.2,267.9 470.2,272.3" fill="#122d4e"/>
+<polygon points="467.1,258.4 477.2,260.5 470.2,264.9 460.1,262.7" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-05-26" data-n="8" data-depth="031">
+<polygon points="482.1,258.7 492.2,260.8 492.2,269.4 482.1,267.3" fill="#1f4d8a"/>
+<polygon points="492.2,260.8 499.2,256.4 499.2,265.0 492.2,269.4" fill="#183b69"/>
+<polygon points="489.1,254.3 499.2,256.4 492.2,260.8 482.1,258.7" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-01" data-n="73" data-depth="031">
+<polygon points="504.1,238.5 514.2,240.6 514.2,266.5 504.1,264.4" fill="#5379ab"/>
+<polygon points="514.2,240.6 521.2,236.2 521.2,262.1 514.2,266.5" fill="#3f5c82"/>
+<polygon points="511.1,234.1 521.2,236.2 514.2,240.6 504.1,238.5" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-06-07" data-n="2" data-depth="031">
+<polygon points="526.1,257.2 536.2,259.3 536.2,263.6 526.1,261.5" fill="#173b66"/>
+<polygon points="536.2,259.3 543.2,254.9 543.2,259.2 536.2,263.6" fill="#122d4e"/>
+<polygon points="533.1,252.8 543.2,254.9 536.2,259.3 526.1,257.2" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-05-09" data-n="1" data-depth="032">
+<polygon points="407.1,278.5 417.2,280.6 417.2,283.7 407.1,281.6" fill="#173b66"/>
+<polygon points="417.2,280.6 424.2,276.3 424.2,279.3 417.2,283.7" fill="#122d4e"/>
+<polygon points="414.1,274.2 424.2,276.3 417.2,280.6 407.1,278.5" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-05-15" data-n="29" data-depth="032">
+<polygon points="429.1,262.4 439.2,264.5 439.2,280.8 429.1,278.7" fill="#2961a4"/>
+<polygon points="439.2,264.5 446.2,260.1 446.2,276.4 439.2,280.8" fill="#1f4a7d"/>
+<polygon points="436.1,258.0 446.2,260.1 439.2,264.5 429.1,262.4" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-05-21" data-n="55" data-depth="032">
+<polygon points="451.1,253.3 461.2,255.4 461.2,277.9 451.1,275.8" fill="#5379ab"/>
+<polygon points="461.2,255.4 468.2,251.0 468.2,273.5 461.2,277.9" fill="#3f5c82"/>
+<polygon points="458.1,248.9 468.2,251.0 461.2,255.4 451.1,253.3" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-05-27" data-n="23" data-depth="032">
+<polygon points="473.1,258.3 483.2,260.4 483.2,275.0 473.1,272.9" fill="#2961a4"/>
+<polygon points="483.2,260.4 490.2,256.1 490.2,270.6 483.2,275.0" fill="#1f4a7d"/>
+<polygon points="480.1,254.0 490.2,256.1 483.2,260.4 473.1,258.3" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-06-02" data-n="22" data-depth="032">
+<polygon points="495.1,255.8 505.2,257.9 505.2,272.1 495.1,270.0" fill="#2961a4"/>
+<polygon points="505.2,257.9 512.2,253.5 512.2,267.7 505.2,272.1" fill="#1f4a7d"/>
+<polygon points="502.1,251.4 512.2,253.5 505.2,257.9 495.1,255.8" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-06-08" data-n="18" data-depth="032">
+<polygon points="517.1,254.2 527.2,256.3 527.2,269.2 517.1,267.1" fill="#1f4d8a"/>
+<polygon points="527.2,256.3 534.2,252.0 534.2,264.8 527.2,269.2" fill="#183b69"/>
+<polygon points="524.1,249.8 534.2,252.0 527.2,256.3 517.1,254.2" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-14" data-n="8" data-depth="032">
+<polygon points="539.1,255.6 549.2,257.7 549.2,266.3 539.1,264.2" fill="#1f4d8a"/>
+<polygon points="549.2,257.7 556.2,253.3 556.2,261.9 549.2,266.3" fill="#183b69"/>
+<polygon points="546.1,251.2 556.2,253.3 549.2,257.7 539.1,255.6" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-05-16" data-n="39" data-depth="033">
+<polygon points="420.1,265.4 430.2,267.5 430.2,286.4 420.1,284.3" fill="#2961a4"/>
+<polygon points="430.2,267.5 437.2,263.1 437.2,282.0 430.2,286.4" fill="#1f4a7d"/>
+<polygon points="427.1,261.0 437.2,263.1 430.2,267.5 420.1,265.4" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-05-22" data-n="9" data-depth="033">
+<polygon points="442.1,272.3 452.2,274.4 452.2,283.5 442.1,281.4" fill="#1f4d8a"/>
+<polygon points="452.2,274.4 459.2,270.0 459.2,279.1 452.2,283.5" fill="#183b69"/>
+<polygon points="449.1,267.9 459.2,270.0 452.2,274.4 442.1,272.3" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-05-28" data-n="4" data-depth="033">
+<polygon points="464.1,272.4 474.2,274.5 474.2,280.6 464.1,278.5" fill="#173b66"/>
+<polygon points="474.2,274.5 481.2,270.1 481.2,276.2 474.2,280.6" fill="#122d4e"/>
+<polygon points="471.1,268.0 481.2,270.1 474.2,274.5 464.1,272.4" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-06-03" data-n="1" data-depth="033">
+<polygon points="486.1,272.5 496.2,274.6 496.2,277.7 486.1,275.6" fill="#173b66"/>
+<polygon points="496.2,274.6 503.2,270.3 503.2,273.3 496.2,277.7" fill="#122d4e"/>
+<polygon points="493.1,268.2 503.2,270.3 496.2,274.6 486.1,272.5" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-06-09" data-n="11" data-depth="033">
+<polygon points="508.1,262.6 518.2,264.7 518.2,274.8 508.1,272.7" fill="#1f4d8a"/>
+<polygon points="518.2,264.7 525.2,260.4 525.2,270.4 518.2,274.8" fill="#183b69"/>
+<polygon points="515.1,258.3 525.2,260.4 518.2,264.7 508.1,262.6" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-15" data-n="2" data-depth="033">
+<polygon points="530.1,265.5 540.2,267.6 540.2,271.9 530.1,269.8" fill="#173b66"/>
+<polygon points="540.2,267.6 547.2,263.2 547.2,267.5 540.2,271.9" fill="#122d4e"/>
+<polygon points="537.1,261.1 547.2,263.2 540.2,267.6 530.1,265.5" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-06-21" data-n="6" data-depth="033">
+<polygon points="552.1,259.4 562.2,261.6 562.2,269.0 552.1,266.9" fill="#173b66"/>
+<polygon points="562.2,261.6 569.2,257.2 569.2,264.6 562.2,269.0" fill="#122d4e"/>
+<polygon points="559.1,255.1 569.2,257.2 562.2,261.6 552.1,259.4" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-05-23" data-n="10" data-depth="034">
+<polygon points="433.1,277.4 443.2,279.5 443.2,289.1 433.1,287.0" fill="#1f4d8a"/>
+<polygon points="443.2,279.5 450.2,275.1 450.2,284.7 443.2,289.1" fill="#183b69"/>
+<polygon points="440.1,273.0 450.2,275.1 443.2,279.5 433.1,277.4" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-05-29" data-n="17" data-depth="034">
+<polygon points="455.1,271.6 465.2,273.7 465.2,286.2 455.1,284.1" fill="#1f4d8a"/>
+<polygon points="465.2,273.7 472.2,269.3 472.2,281.8 465.2,286.2" fill="#183b69"/>
+<polygon points="462.1,267.2 472.2,269.3 465.2,273.7 455.1,271.6" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-04" data-n="13" data-depth="034">
+<polygon points="477.1,270.2 487.2,272.4 487.2,283.3 477.1,281.2" fill="#1f4d8a"/>
+<polygon points="487.2,272.4 494.2,268.0 494.2,278.9 487.2,283.3" fill="#183b69"/>
+<polygon points="484.1,265.9 494.2,268.0 487.2,272.4 477.1,270.2" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-10" data-n="4" data-depth="034">
+<polygon points="499.1,272.2 509.2,274.3 509.2,280.4 499.1,278.3" fill="#173b66"/>
+<polygon points="509.2,274.3 516.2,269.9 516.2,276.0 509.2,280.4" fill="#122d4e"/>
+<polygon points="506.1,267.8 516.2,269.9 509.2,274.3 499.1,272.2" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-06-16" data-n="2" data-depth="034">
+<polygon points="521.1,271.1 531.2,273.2 531.2,277.5 521.1,275.4" fill="#173b66"/>
+<polygon points="531.2,273.2 538.2,268.8 538.2,273.1 531.2,277.5" fill="#122d4e"/>
+<polygon points="528.1,266.7 538.2,268.8 531.2,273.2 521.1,271.1" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-06-22" data-n="1" data-depth="034">
+<polygon points="543.1,269.4 553.2,271.5 553.2,274.6 543.1,272.5" fill="#173b66"/>
+<polygon points="553.2,271.5 560.2,267.2 560.2,270.2 553.2,274.6" fill="#122d4e"/>
+<polygon points="550.1,265.1 560.2,267.2 553.2,271.5 543.1,269.4" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-06-28" data-n="16" data-depth="034">
+<polygon points="565.1,257.5 575.2,259.6 575.2,271.7 565.1,269.6" fill="#1f4d8a"/>
+<polygon points="575.2,259.6 582.2,255.2 582.2,267.3 575.2,271.7" fill="#183b69"/>
+<polygon points="572.1,253.1 582.2,255.2 575.2,259.6 565.1,257.5" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-05-30" data-n="13" data-depth="035">
+<polygon points="446.1,278.7 456.2,280.9 456.2,291.8 446.1,289.7" fill="#1f4d8a"/>
+<polygon points="456.2,280.9 463.2,276.5 463.2,287.4 456.2,291.8" fill="#183b69"/>
+<polygon points="453.1,274.4 463.2,276.5 456.2,280.9 446.1,278.7" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-05" data-n="7" data-depth="035">
+<polygon points="468.1,278.8 478.2,280.9 478.2,288.9 468.1,286.8" fill="#1f4d8a"/>
+<polygon points="478.2,280.9 485.2,276.5 485.2,284.5 478.2,288.9" fill="#183b69"/>
+<polygon points="475.1,274.4 485.2,276.5 478.2,280.9 468.1,278.8" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-11" data-n="5" data-depth="035">
+<polygon points="490.1,277.1 500.2,279.2 500.2,286.0 490.1,283.9" fill="#173b66"/>
+<polygon points="500.2,279.2 507.2,274.8 507.2,281.6 500.2,286.0" fill="#122d4e"/>
+<polygon points="497.1,272.7 507.2,274.8 500.2,279.2 490.1,277.1" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-06-17" data-n="0" data-depth="035">
+<polygon points="519.1,276.6 529.2,278.7 522.2,283.1 512.1,281.0" fill="#383835"/></g>
+<g class="bar" data-date="2026-06-23" data-n="28" data-depth="035">
+<polygon points="534.1,262.0 544.2,264.1 544.2,280.2 534.1,278.1" fill="#2961a4"/>
+<polygon points="544.2,264.1 551.2,259.8 551.2,275.8 544.2,280.2" fill="#1f4a7d"/>
+<polygon points="541.1,257.7 551.2,259.8 544.2,264.1 534.1,262.0" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-06-29" data-n="3" data-depth="035">
+<polygon points="556.1,269.9 566.2,272.0 566.2,277.3 556.1,275.2" fill="#173b66"/>
+<polygon points="566.2,272.0 573.2,267.7 573.2,272.9 566.2,277.3" fill="#122d4e"/>
+<polygon points="563.1,265.6 573.2,267.7 566.2,272.0 556.1,269.9" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-07-05" data-n="49" data-depth="035">
+<polygon points="578.1,251.1 588.2,253.2 588.2,274.4 578.1,272.3" fill="#5379ab"/>
+<polygon points="588.2,253.2 595.2,248.8 595.2,270.0 588.2,274.4" fill="#3f5c82"/>
+<polygon points="585.1,246.7 595.2,248.8 588.2,253.2 578.1,251.1" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-06-06" data-n="1" data-depth="036">
+<polygon points="459.1,289.3 469.2,291.4 469.2,294.5 459.1,292.4" fill="#173b66"/>
+<polygon points="469.2,291.4 476.2,287.1 476.2,290.1 469.2,294.5" fill="#122d4e"/>
+<polygon points="466.1,285.0 476.2,287.1 469.2,291.4 459.1,289.3" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-06-12" data-n="0" data-depth="036">
+<polygon points="488.1,285.1 498.2,287.2 491.2,291.6 481.1,289.5" fill="#383835"/></g>
+<g class="bar" data-date="2026-06-18" data-n="11" data-depth="036">
+<polygon points="503.1,276.5 513.2,278.6 513.2,288.7 503.1,286.6" fill="#1f4d8a"/>
+<polygon points="513.2,278.6 520.2,274.3 520.2,284.3 513.2,288.7" fill="#183b69"/>
+<polygon points="510.1,272.2 520.2,274.3 513.2,278.6 503.1,276.5" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-24" data-n="15" data-depth="036">
+<polygon points="525.1,271.9 535.2,274.0 535.2,285.8 525.1,283.7" fill="#1f4d8a"/>
+<polygon points="535.2,274.0 542.2,269.7 542.2,281.4 535.2,285.8" fill="#183b69"/>
+<polygon points="532.1,267.6 542.2,269.7 535.2,274.0 525.1,271.9" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-30" data-n="37" data-depth="036">
+<polygon points="547.1,262.3 557.2,264.4 557.2,282.9 547.1,280.8" fill="#2961a4"/>
+<polygon points="557.2,264.4 564.2,260.1 564.2,278.5 557.2,282.9" fill="#1f4a7d"/>
+<polygon points="554.1,258.0 564.2,260.1 557.2,264.4 547.1,262.3" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-06" data-n="43" data-depth="036">
+<polygon points="569.1,258.0 579.2,260.1 579.2,280.0 569.1,277.9" fill="#2961a4"/>
+<polygon points="579.2,260.1 586.2,255.7 586.2,275.6 579.2,280.0" fill="#1f4a7d"/>
+<polygon points="576.1,253.6 586.2,255.7 579.2,260.1 569.1,258.0" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-12" data-n="38" data-depth="036">
+<polygon points="591.1,256.3 601.2,258.4 601.2,277.1 591.1,275.0" fill="#2961a4"/>
+<polygon points="601.2,258.4 608.2,254.0 608.2,272.7 601.2,277.1" fill="#1f4a7d"/>
+<polygon points="598.1,251.9 608.2,254.0 601.2,258.4 591.1,256.3" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-06-13" data-n="7" data-depth="037">
+<polygon points="472.1,287.1 482.2,289.2 482.2,297.2 472.1,295.1" fill="#1f4d8a"/>
+<polygon points="482.2,289.2 489.2,284.8 489.2,292.8 482.2,297.2" fill="#183b69"/>
+<polygon points="479.1,282.7 489.2,284.8 482.2,289.2 472.1,287.1" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-19" data-n="3" data-depth="037">
+<polygon points="494.1,286.9 504.2,289.0 504.2,294.3 494.1,292.2" fill="#173b66"/>
+<polygon points="504.2,289.0 511.2,284.7 511.2,289.9 504.2,294.3" fill="#122d4e"/>
+<polygon points="501.1,282.6 511.2,284.7 504.2,289.0 494.1,286.9" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-06-25" data-n="12" data-depth="037">
+<polygon points="516.1,278.8 526.2,280.9 526.2,291.4 516.1,289.3" fill="#1f4d8a"/>
+<polygon points="526.2,280.9 533.2,276.5 533.2,287.0 526.2,291.4" fill="#183b69"/>
+<polygon points="523.1,274.4 533.2,276.5 526.2,280.9 516.1,278.8" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-07-01" data-n="36" data-depth="037">
+<polygon points="538.1,268.2 548.2,270.3 548.2,288.5 538.1,286.4" fill="#2961a4"/>
+<polygon points="548.2,270.3 555.2,265.9 555.2,284.1 548.2,288.5" fill="#1f4a7d"/>
+<polygon points="545.1,263.8 555.2,265.9 548.2,270.3 538.1,268.2" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-07" data-n="37" data-depth="037">
+<polygon points="560.1,265.0 570.2,267.1 570.2,285.6 560.1,283.5" fill="#2961a4"/>
+<polygon points="570.2,267.1 577.2,262.8 577.2,281.2 570.2,285.6" fill="#1f4a7d"/>
+<polygon points="567.1,260.7 577.2,262.8 570.2,267.1 560.1,265.0" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-13" data-n="8" data-depth="037">
+<polygon points="582.1,272.0 592.2,274.1 592.2,282.7 582.1,280.6" fill="#1f4d8a"/>
+<polygon points="592.2,274.1 599.2,269.7 599.2,278.3 592.2,282.7" fill="#183b69"/>
+<polygon points="589.1,267.6 599.2,269.7 592.2,274.1 582.1,272.0" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-07-19" data-n="93" data-depth="037">
+<polygon points="604.1,248.5 614.2,250.6 614.2,279.8 604.1,277.7" fill="#5379ab"/>
+<polygon points="614.2,250.6 621.2,246.2 621.2,275.4 614.2,279.8" fill="#3f5c82"/>
+<polygon points="611.1,244.1 621.2,246.2 614.2,250.6 604.1,248.5" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-06-20" data-n="12" data-depth="038">
+<polygon points="485.1,287.3 495.2,289.4 495.2,299.9 485.1,297.8" fill="#1f4d8a"/>
+<polygon points="495.2,289.4 502.2,285.0 502.2,295.5 495.2,299.9" fill="#183b69"/>
+<polygon points="492.1,282.9 502.2,285.0 495.2,289.4 485.1,287.3" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-06-26" data-n="4" data-depth="038">
+<polygon points="507.1,288.8 517.2,290.9 517.2,297.0 507.1,294.9" fill="#173b66"/>
+<polygon points="517.2,290.9 524.2,286.5 524.2,292.6 517.2,297.0" fill="#122d4e"/>
+<polygon points="514.1,284.4 524.2,286.5 517.2,290.9 507.1,288.8" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-07-02" data-n="57" data-depth="038">
+<polygon points="529.1,269.1 539.2,271.2 539.2,294.1 529.1,292.0" fill="#5379ab"/>
+<polygon points="539.2,271.2 546.2,266.8 546.2,289.7 539.2,294.1" fill="#3f5c82"/>
+<polygon points="536.1,264.7 546.2,266.8 539.2,271.2 529.1,269.1" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-07-08" data-n="11" data-depth="038">
+<polygon points="551.1,279.0 561.2,281.1 561.2,291.2 551.1,289.1" fill="#1f4d8a"/>
+<polygon points="561.2,281.1 568.2,276.8 568.2,286.8 561.2,291.2" fill="#183b69"/>
+<polygon points="558.1,274.7 568.2,276.8 561.2,281.1 551.1,279.0" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-07-14" data-n="22" data-depth="038">
+<polygon points="573.1,272.0 583.2,274.1 583.2,288.3 573.1,286.2" fill="#2961a4"/>
+<polygon points="583.2,274.1 590.2,269.7 590.2,283.9 583.2,288.3" fill="#1f4a7d"/>
+<polygon points="580.1,267.6 590.2,269.7 583.2,274.1 573.1,272.0" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-20" data-n="104" data-depth="038">
+<polygon points="595.1,252.4 605.2,254.5 605.2,285.4 595.1,283.3" fill="#8599b1"/>
+<polygon points="605.2,254.5 612.2,250.1 612.2,281.0 605.2,285.4" fill="#657587"/>
+<polygon points="602.1,248.0 612.2,250.1 605.2,254.5 595.1,252.4" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-07-26" data-n="29" data-depth="038">
+<polygon points="617.1,264.1 627.2,266.2 627.2,282.5 617.1,280.4" fill="#2961a4"/>
+<polygon points="627.2,266.2 634.2,261.8 634.2,278.1 627.2,282.5" fill="#1f4a7d"/>
+<polygon points="624.1,259.7 634.2,261.8 627.2,266.2 617.1,264.1" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-06-27" data-n="11" data-depth="039">
+<polygon points="498.1,290.4 508.2,292.5 508.2,302.6 498.1,300.5" fill="#1f4d8a"/>
+<polygon points="508.2,292.5 515.2,288.2 515.2,298.2 508.2,302.6" fill="#183b69"/>
+<polygon points="505.1,286.1 515.2,288.2 508.2,292.5 498.1,290.4" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-07-03" data-n="27" data-depth="039">
+<polygon points="520.1,281.8 530.2,283.9 530.2,299.7 520.1,297.6" fill="#2961a4"/>
+<polygon points="530.2,283.9 537.2,279.6 537.2,295.3 530.2,299.7" fill="#1f4a7d"/>
+<polygon points="527.1,277.5 537.2,279.6 530.2,283.9 520.1,281.8" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-09" data-n="40" data-depth="039">
+<polygon points="542.1,275.5 552.2,277.6 552.2,296.8 542.1,294.7" fill="#2961a4"/>
+<polygon points="552.2,277.6 559.2,273.2 559.2,292.4 552.2,296.8" fill="#1f4a7d"/>
+<polygon points="549.1,271.1 559.2,273.2 552.2,277.6 542.1,275.5" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-15" data-n="9" data-depth="039">
+<polygon points="564.1,282.7 574.2,284.8 574.2,293.9 564.1,291.8" fill="#1f4d8a"/>
+<polygon points="574.2,284.8 581.2,280.4 581.2,289.5 574.2,293.9" fill="#183b69"/>
+<polygon points="571.1,278.3 581.2,280.4 574.2,284.8 564.1,282.7" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-07-21" data-n="50" data-depth="039">
+<polygon points="586.1,267.4 596.2,269.6 596.2,291.0 586.1,288.9" fill="#5379ab"/>
+<polygon points="596.2,269.6 603.2,265.2 603.2,286.6 596.2,291.0" fill="#3f5c82"/>
+<polygon points="593.1,263.1 603.2,265.2 596.2,269.6 586.1,267.4" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-07-27" data-n="14" data-depth="039">
+<polygon points="608.1,274.6 618.2,276.7 618.2,288.1 608.1,286.0" fill="#1f4d8a"/>
+<polygon points="618.2,276.7 625.2,272.4 625.2,283.7 618.2,288.1" fill="#183b69"/>
+<polygon points="615.1,270.3 625.2,272.4 618.2,276.7 608.1,274.6" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-08-02" data-n="90" data-depth="039">
+<polygon points="630.1,254.3 640.2,256.4 640.2,285.2 630.1,283.1" fill="#5379ab"/>
+<polygon points="640.2,256.4 647.2,252.1 647.2,280.8 640.2,285.2" fill="#3f5c82"/>
+<polygon points="637.1,250.0 647.2,252.1 640.2,256.4 630.1,254.3" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-07-04" data-n="32" data-depth="040">
+<polygon points="511.1,286.0 521.2,288.1 521.2,305.3 511.1,303.2" fill="#2961a4"/>
+<polygon points="521.2,288.1 528.2,283.8 528.2,300.9 521.2,305.3" fill="#1f4a7d"/>
+<polygon points="518.1,281.7 528.2,283.8 521.2,288.1 511.1,286.0" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-10" data-n="19" data-depth="040">
+<polygon points="533.1,287.1 543.2,289.2 543.2,302.4 533.1,300.3" fill="#2961a4"/>
+<polygon points="543.2,289.2 550.2,284.8 550.2,298.0 543.2,302.4" fill="#1f4a7d"/>
+<polygon points="540.1,282.7 550.2,284.8 543.2,289.2 533.1,287.1" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-16" data-n="41" data-depth="040">
+<polygon points="555.1,278.0 565.2,280.1 565.2,299.5 555.1,297.4" fill="#2961a4"/>
+<polygon points="565.2,280.1 572.2,275.7 572.2,295.1 565.2,299.5" fill="#1f4a7d"/>
+<polygon points="562.1,273.6 572.2,275.7 565.2,280.1 555.1,278.0" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-22" data-n="69" data-depth="040">
+<polygon points="577.1,269.3 587.2,271.4 587.2,296.6 577.1,294.5" fill="#5379ab"/>
+<polygon points="587.2,271.4 594.2,267.0 594.2,292.2 587.2,296.6" fill="#3f5c82"/>
+<polygon points="584.1,264.9 594.2,267.0 587.2,271.4 577.1,269.3" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-07-28" data-n="8" data-depth="040">
+<polygon points="599.1,283.0 609.2,285.1 609.2,293.7 599.1,291.6" fill="#1f4d8a"/>
+<polygon points="609.2,285.1 616.2,280.7 616.2,289.3 609.2,293.7" fill="#183b69"/>
+<polygon points="606.1,278.6 616.2,280.7 609.2,285.1 599.1,283.0" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-08-03" data-n="54" data-depth="040">
+<polygon points="621.1,266.4 631.2,268.5 631.2,290.8 621.1,288.7" fill="#5379ab"/>
+<polygon points="631.2,268.5 638.2,264.1 638.2,286.4 631.2,290.8" fill="#3f5c82"/>
+<polygon points="628.1,262.0 638.2,264.1 631.2,268.5 621.1,266.4" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-08-09" data-n="63" data-depth="040">
+<polygon points="643.1,261.7 653.2,263.8 653.2,287.9 643.1,285.8" fill="#5379ab"/>
+<polygon points="653.2,263.8 660.2,259.5 660.2,283.5 653.2,287.9" fill="#3f5c82"/>
+<polygon points="650.1,257.4 660.2,259.5 653.2,263.8 643.1,261.7" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-07-11" data-n="13" data-depth="041">
+<polygon points="524.1,294.9 534.2,297.1 534.2,308.0 524.1,305.9" fill="#1f4d8a"/>
+<polygon points="534.2,297.1 541.2,292.7 541.2,303.6 534.2,308.0" fill="#183b69"/>
+<polygon points="531.1,290.6 541.2,292.7 534.2,297.1 524.1,294.9" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-07-17" data-n="56" data-depth="041">
+<polygon points="546.1,280.3 556.2,282.4 556.2,305.1 546.1,303.0" fill="#5379ab"/>
+<polygon points="556.2,282.4 563.2,278.0 563.2,300.7 556.2,305.1" fill="#3f5c82"/>
+<polygon points="553.1,275.9 563.2,278.0 556.2,282.4 546.1,280.3" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-07-23" data-n="41" data-depth="041">
+<polygon points="568.1,280.7 578.2,282.8 578.2,302.2 568.1,300.1" fill="#2961a4"/>
+<polygon points="578.2,282.8 585.2,278.4 585.2,297.8 578.2,302.2" fill="#1f4a7d"/>
+<polygon points="575.1,276.3 585.2,278.4 578.2,282.8 568.1,280.7" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-29" data-n="6" data-depth="041">
+<polygon points="590.1,289.7 600.2,291.9 600.2,299.3 590.1,297.2" fill="#173b66"/>
+<polygon points="600.2,291.9 607.2,287.5 607.2,294.9 600.2,299.3" fill="#122d4e"/>
+<polygon points="597.1,285.4 607.2,287.5 600.2,291.9 590.1,289.7" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-08-04" data-n="177" data-depth="041">
+<polygon points="612.1,254.0 622.2,256.1 622.2,296.4 612.1,294.3" fill="#8599b1"/>
+<polygon points="622.2,256.1 629.2,251.7 629.2,292.0 622.2,296.4" fill="#657587"/>
+<polygon points="619.1,249.6 629.2,251.7 622.2,256.1 612.1,254.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-08-10" data-n="50" data-depth="041">
+<polygon points="634.1,269.9 644.2,272.1 644.2,293.5 634.1,291.4" fill="#5379ab"/>
+<polygon points="644.2,272.1 651.2,267.7 651.2,289.1 644.2,293.5" fill="#3f5c82"/>
+<polygon points="641.1,265.6 651.2,267.7 644.2,272.1 634.1,269.9" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-08-16" data-n="120" data-depth="041">
+<polygon points="656.1,255.3 666.2,257.4 666.2,290.6 656.1,288.5" fill="#8599b1"/>
+<polygon points="666.2,257.4 673.2,253.0 673.2,286.2 666.2,290.6" fill="#657587"/>
+<polygon points="663.1,250.9 673.2,253.0 666.2,257.4 656.1,255.3" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-07-18" data-n="26" data-depth="042">
+<polygon points="537.1,293.1 547.2,295.2 547.2,310.7 537.1,308.6" fill="#2961a4"/>
+<polygon points="547.2,295.2 554.2,290.9 554.2,306.3 547.2,310.7" fill="#1f4a7d"/>
+<polygon points="544.1,288.8 554.2,290.9 547.2,295.2 537.1,293.1" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-07-24" data-n="74" data-depth="042">
+<polygon points="559.1,279.6 569.2,281.7 569.2,307.8 559.1,305.7" fill="#5379ab"/>
+<polygon points="569.2,281.7 576.2,277.3 576.2,303.4 569.2,307.8" fill="#3f5c82"/>
+<polygon points="566.1,275.2 576.2,277.3 569.2,281.7 559.1,279.6" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-07-30" data-n="76" data-depth="042">
+<polygon points="581.1,276.4 591.2,278.5 591.2,304.9 581.1,302.8" fill="#5379ab"/>
+<polygon points="591.2,278.5 598.2,274.1 598.2,300.5 591.2,304.9" fill="#3f5c82"/>
+<polygon points="588.1,272.0 598.2,274.1 591.2,278.5 581.1,276.4" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-08-05" data-n="92" data-depth="042">
+<polygon points="603.1,270.8 613.2,272.9 613.2,302.0 603.1,299.9" fill="#5379ab"/>
+<polygon points="613.2,272.9 620.2,268.5 620.2,297.6 613.2,302.0" fill="#3f5c82"/>
+<polygon points="610.1,266.4 620.2,268.5 613.2,272.9 603.1,270.8" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-08-11" data-n="15" data-depth="042">
+<polygon points="625.1,285.2 635.2,287.3 635.2,299.1 625.1,297.0" fill="#1f4d8a"/>
+<polygon points="635.2,287.3 642.2,283.0 642.2,294.7 635.2,299.1" fill="#183b69"/>
+<polygon points="632.1,280.9 642.2,283.0 635.2,287.3 625.1,285.2" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-08-17" data-n="75" data-depth="042">
+<polygon points="647.1,267.8 657.2,269.9 657.2,296.2 647.1,294.1" fill="#5379ab"/>
+<polygon points="657.2,269.9 664.2,265.6 664.2,291.8 657.2,296.2" fill="#3f5c82"/>
+<polygon points="654.1,263.5 664.2,265.6 657.2,269.9 647.1,267.8" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-08-23" data-n="80" data-depth="042">
+<polygon points="669.1,264.1 679.2,266.2 679.2,293.3 669.1,291.2" fill="#5379ab"/>
+<polygon points="679.2,266.2 686.2,261.8 686.2,288.9 679.2,293.3" fill="#3f5c82"/>
+<polygon points="676.1,259.7 686.2,261.8 679.2,266.2 669.1,264.1" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-07-25" data-n="48" data-depth="043">
+<polygon points="550.1,290.3 560.2,292.4 560.2,313.4 550.1,311.3" fill="#5379ab"/>
+<polygon points="560.2,292.4 567.2,288.0 567.2,309.0 560.2,313.4" fill="#3f5c82"/>
+<polygon points="557.1,285.9 567.2,288.0 560.2,292.4 550.1,290.3" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-07-31" data-n="157" data-depth="043">
+<polygon points="572.1,270.4 582.2,272.5 582.2,310.5 572.1,308.4" fill="#8599b1"/>
+<polygon points="582.2,272.5 589.2,268.1 589.2,306.1 582.2,310.5" fill="#657587"/>
+<polygon points="579.1,266.0 589.2,268.1 582.2,272.5 572.1,270.4" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-08-06" data-n="93" data-depth="043">
+<polygon points="594.1,276.3 604.2,278.4 604.2,307.6 594.1,305.5" fill="#5379ab"/>
+<polygon points="604.2,278.4 611.2,274.0 611.2,303.2 604.2,307.6" fill="#3f5c82"/>
+<polygon points="601.1,271.9 611.2,274.0 604.2,278.4 594.1,276.3" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-08-12" data-n="26" data-depth="043">
+<polygon points="616.1,287.1 626.2,289.2 626.2,304.7 616.1,302.6" fill="#2961a4"/>
+<polygon points="626.2,289.2 633.2,284.9 633.2,300.3 626.2,304.7" fill="#1f4a7d"/>
+<polygon points="623.1,282.8 633.2,284.9 626.2,289.2 616.1,287.1" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-08-18" data-n="39" data-depth="043">
+<polygon points="638.1,280.8 648.2,282.9 648.2,301.8 638.1,299.7" fill="#2961a4"/>
+<polygon points="648.2,282.9 655.2,278.5 655.2,297.4 648.2,301.8" fill="#1f4a7d"/>
+<polygon points="645.1,276.4 655.2,278.5 648.2,282.9 638.1,280.8" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-08-24" data-n="35" data-depth="043">
+<polygon points="660.1,278.8 670.2,281.0 670.2,298.9 660.1,296.8" fill="#2961a4"/>
+<polygon points="670.2,281.0 677.2,276.6 677.2,294.5 670.2,298.9" fill="#1f4a7d"/>
+<polygon points="667.1,274.5 677.2,276.6 670.2,281.0 660.1,278.8" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-08-30" data-n="32" data-depth="043">
+<polygon points="682.1,276.7 692.2,278.8 692.2,296.0 682.1,293.9" fill="#2961a4"/>
+<polygon points="692.2,278.8 699.2,274.5 699.2,291.6 692.2,296.0" fill="#1f4a7d"/>
+<polygon points="689.1,272.4 699.2,274.5 692.2,278.8 682.1,276.7" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-08-01" data-n="140" data-depth="044">
+<polygon points="563.1,278.1 573.2,280.2 573.2,316.1 563.1,314.0" fill="#8599b1"/>
+<polygon points="573.2,280.2 580.2,275.9 580.2,311.7 573.2,316.1" fill="#657587"/>
+<polygon points="570.1,273.8 580.2,275.9 573.2,280.2 563.1,278.1" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-08-07" data-n="31" data-depth="044">
+<polygon points="585.1,294.2 595.2,296.3 595.2,313.2 585.1,311.1" fill="#2961a4"/>
+<polygon points="595.2,296.3 602.2,291.9 602.2,308.8 595.2,313.2" fill="#1f4a7d"/>
+<polygon points="592.1,289.8 602.2,291.9 595.2,296.3 585.1,294.2" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-08-13" data-n="46" data-depth="044">
+<polygon points="607.1,287.6 617.2,289.7 617.2,310.3 607.1,308.2" fill="#5379ab"/>
+<polygon points="617.2,289.7 624.2,285.4 624.2,305.9 617.2,310.3" fill="#3f5c82"/>
+<polygon points="614.1,283.3 624.2,285.4 617.2,289.7 607.1,287.6" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-08-19" data-n="15" data-depth="044">
+<polygon points="629.1,293.5 639.2,295.6 639.2,307.4 629.1,305.3" fill="#1f4d8a"/>
+<polygon points="639.2,295.6 646.2,291.3 646.2,303.0 639.2,307.4" fill="#183b69"/>
+<polygon points="636.1,289.2 646.2,291.3 639.2,295.6 629.1,293.5" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-08-25" data-n="129" data-depth="044">
+<polygon points="651.1,268.0 661.2,270.1 661.2,304.5 651.1,302.4" fill="#8599b1"/>
+<polygon points="661.2,270.1 668.2,265.7 668.2,300.1 661.2,304.5" fill="#657587"/>
+<polygon points="658.1,263.6 668.2,265.7 661.2,270.1 651.1,268.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-08-31" data-n="38" data-depth="044">
+<polygon points="673.1,280.8 683.2,282.9 683.2,301.6 673.1,299.5" fill="#2961a4"/>
+<polygon points="683.2,282.9 690.2,278.5 690.2,297.2 683.2,301.6" fill="#1f4a7d"/>
+<polygon points="680.1,276.4 690.2,278.5 683.2,282.9 673.1,280.8" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-09-06" data-n="72" data-depth="044">
+<polygon points="695.1,270.9 705.2,273.0 705.2,298.7 695.1,296.6" fill="#5379ab"/>
+<polygon points="705.2,273.0 712.2,268.6 712.2,294.3 705.2,298.7" fill="#3f5c82"/>
+<polygon points="702.1,266.5 712.2,268.6 705.2,273.0 695.1,270.9" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-08-08" data-n="18" data-depth="045">
+<polygon points="576.1,303.8 586.2,305.9 586.2,318.8 576.1,316.7" fill="#1f4d8a"/>
+<polygon points="586.2,305.9 593.2,301.6 593.2,314.4 586.2,318.8" fill="#183b69"/>
+<polygon points="583.1,299.4 593.2,301.6 586.2,305.9 576.1,303.8" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-08-14" data-n="116" data-depth="045">
+<polygon points="598.1,281.1 608.2,283.2 608.2,315.9 598.1,313.8" fill="#8599b1"/>
+<polygon points="608.2,283.2 615.2,278.9 615.2,311.5 608.2,315.9" fill="#657587"/>
+<polygon points="605.1,276.8 615.2,278.9 608.2,283.2 598.1,281.1" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-08-20" data-n="35" data-depth="045">
+<polygon points="620.1,292.9 630.2,295.1 630.2,313.0 620.1,310.9" fill="#2961a4"/>
+<polygon points="630.2,295.1 637.2,290.7 637.2,308.6 630.2,313.0" fill="#1f4a7d"/>
+<polygon points="627.1,288.6 637.2,290.7 630.2,295.1 620.1,292.9" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-08-26" data-n="37" data-depth="045">
+<polygon points="642.1,289.5 652.2,291.6 652.2,310.1 642.1,308.0" fill="#2961a4"/>
+<polygon points="652.2,291.6 659.2,287.3 659.2,305.7 652.2,310.1" fill="#1f4a7d"/>
+<polygon points="649.1,285.2 659.2,287.3 652.2,291.6 642.1,289.5" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-09-01" data-n="15" data-depth="045">
+<polygon points="664.1,293.3 674.2,295.4 674.2,307.2 664.1,305.1" fill="#1f4d8a"/>
+<polygon points="674.2,295.4 681.2,291.1 681.2,302.8 674.2,307.2" fill="#183b69"/>
+<polygon points="671.1,289.0 681.2,291.1 674.2,295.4 664.1,293.3" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-09-07" data-n="48" data-depth="045">
+<polygon points="686.1,281.2 696.2,283.3 696.2,304.3 686.1,302.2" fill="#5379ab"/>
+<polygon points="696.2,283.3 703.2,278.9 703.2,299.9 696.2,304.3" fill="#3f5c82"/>
+<polygon points="693.1,276.8 703.2,278.9 696.2,283.3 686.1,281.2" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-09-13" data-n="62" data-depth="045">
+<polygon points="708.1,275.4 718.2,277.5 718.2,301.4 708.1,299.3" fill="#5379ab"/>
+<polygon points="718.2,277.5 725.2,273.2 725.2,297.0 718.2,301.4" fill="#3f5c82"/>
+<polygon points="715.1,271.0 725.2,273.2 718.2,277.5 708.1,275.4" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-08-15" data-n="118" data-depth="046">
+<polygon points="589.1,286.5 599.2,288.6 599.2,321.5 589.1,319.4" fill="#8599b1"/>
+<polygon points="599.2,288.6 606.2,284.2 606.2,317.1 599.2,321.5" fill="#657587"/>
+<polygon points="596.1,282.1 606.2,284.2 599.2,288.6 589.1,286.5" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-08-21" data-n="101" data-depth="046">
+<polygon points="611.1,286.0 621.2,288.1 621.2,318.6 611.1,316.5" fill="#8599b1"/>
+<polygon points="621.2,288.1 628.2,283.8 628.2,314.2 621.2,318.6" fill="#657587"/>
+<polygon points="618.1,281.7 628.2,283.8 621.2,288.1 611.1,286.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-08-27" data-n="104" data-depth="046">
+<polygon points="633.1,282.7 643.2,284.8 643.2,315.7 633.1,313.6" fill="#8599b1"/>
+<polygon points="643.2,284.8 650.2,280.4 650.2,311.3 643.2,315.7" fill="#657587"/>
+<polygon points="640.1,278.3 650.2,280.4 643.2,284.8 633.1,282.7" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-09-02" data-n="86" data-depth="046">
+<polygon points="655.1,282.6 665.2,284.7 665.2,312.8 655.1,310.7" fill="#5379ab"/>
+<polygon points="665.2,284.7 672.2,280.3 672.2,308.4 665.2,312.8" fill="#3f5c82"/>
+<polygon points="662.1,278.2 672.2,280.3 665.2,284.7 655.1,282.6" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-09-08" data-n="44" data-depth="046">
+<polygon points="677.1,287.7 687.2,289.8 687.2,309.9 677.1,307.8" fill="#5379ab"/>
+<polygon points="687.2,289.8 694.2,285.4 694.2,305.5 687.2,309.9" fill="#3f5c82"/>
+<polygon points="684.1,283.3 694.2,285.4 687.2,289.8 677.1,287.7" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-09-14" data-n="50" data-depth="046">
+<polygon points="699.1,283.4 709.2,285.6 709.2,307.0 699.1,304.9" fill="#5379ab"/>
+<polygon points="709.2,285.6 716.2,281.2 716.2,302.6 709.2,307.0" fill="#3f5c82"/>
+<polygon points="706.1,279.1 716.2,281.2 709.2,285.6 699.1,283.4" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-09-20" data-n="49" data-depth="046">
+<polygon points="721.1,280.8 731.2,282.9 731.2,304.1 721.1,302.0" fill="#5379ab"/>
+<polygon points="731.2,282.9 738.2,278.5 738.2,299.7 731.2,304.1" fill="#3f5c82"/>
+<polygon points="728.1,276.4 738.2,278.5 731.2,282.9 721.1,280.8" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-08-22" data-n="17" data-depth="047">
+<polygon points="602.1,309.6 612.2,311.7 612.2,324.2 602.1,322.1" fill="#1f4d8a"/>
+<polygon points="612.2,311.7 619.2,307.3 619.2,319.8 612.2,324.2" fill="#183b69"/>
+<polygon points="609.1,305.2 619.2,307.3 612.2,311.7 602.1,309.6" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-08-28" data-n="38" data-depth="047">
+<polygon points="624.1,300.5 634.2,302.6 634.2,321.3 624.1,319.2" fill="#2961a4"/>
+<polygon points="634.2,302.6 641.2,298.2 641.2,316.9 634.2,321.3" fill="#1f4a7d"/>
+<polygon points="631.1,296.1 641.2,298.2 634.2,302.6 624.1,300.5" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-09-03" data-n="38" data-depth="047">
+<polygon points="646.1,297.6 656.2,299.7 656.2,318.4 646.1,316.3" fill="#2961a4"/>
+<polygon points="656.2,299.7 663.2,295.3 663.2,314.0 656.2,318.4" fill="#1f4a7d"/>
+<polygon points="653.1,293.2 663.2,295.3 656.2,299.7 646.1,297.6" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-09-09" data-n="84" data-depth="047">
+<polygon points="668.1,285.6 678.2,287.7 678.2,315.5 668.1,313.4" fill="#5379ab"/>
+<polygon points="678.2,287.7 685.2,283.3 685.2,311.1 678.2,315.5" fill="#3f5c82"/>
+<polygon points="675.1,281.2 685.2,283.3 678.2,287.7 668.1,285.6" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-09-15" data-n="55" data-depth="047">
+<polygon points="690.1,288.0 700.2,290.1 700.2,312.6 690.1,310.5" fill="#5379ab"/>
+<polygon points="700.2,290.1 707.2,285.7 707.2,308.2 700.2,312.6" fill="#3f5c82"/>
+<polygon points="697.1,283.6 707.2,285.7 700.2,290.1 690.1,288.0" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-09-21" data-n="38" data-depth="047">
+<polygon points="712.1,288.9 722.2,291.0 722.2,309.7 712.1,307.6" fill="#2961a4"/>
+<polygon points="722.2,291.0 729.2,286.6 729.2,305.3 722.2,309.7" fill="#1f4a7d"/>
+<polygon points="719.1,284.5 729.2,286.6 722.2,291.0 712.1,288.9" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-09-27" data-n="118" data-depth="047">
+<polygon points="734.1,271.8 744.2,273.9 744.2,306.8 734.1,304.7" fill="#8599b1"/>
+<polygon points="744.2,273.9 751.2,269.5 751.2,302.4 744.2,306.8" fill="#657587"/>
+<polygon points="741.1,267.4 751.2,269.5 744.2,273.9 734.1,271.8" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-08-29" data-n="29" data-depth="048">
+<polygon points="615.1,308.5 625.2,310.6 625.2,326.9 615.1,324.8" fill="#2961a4"/>
+<polygon points="625.2,310.6 632.2,306.2 632.2,322.5 625.2,326.9" fill="#1f4a7d"/>
+<polygon points="622.1,304.1 632.2,306.2 625.2,310.6 615.1,308.5" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-09-04" data-n="60" data-depth="048">
+<polygon points="637.1,298.4 647.2,300.5 647.2,324.0 637.1,321.9" fill="#5379ab"/>
+<polygon points="647.2,300.5 654.2,296.1 654.2,319.6 647.2,324.0" fill="#3f5c82"/>
+<polygon points="644.1,294.0 654.2,296.1 647.2,300.5 637.1,298.4" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-09-10" data-n="17" data-depth="048">
+<polygon points="659.1,306.5 669.2,308.6 669.2,321.1 659.1,319.0" fill="#1f4d8a"/>
+<polygon points="669.2,308.6 676.2,304.2 676.2,316.7 669.2,321.1" fill="#183b69"/>
+<polygon points="666.1,302.1 676.2,304.2 669.2,308.6 659.1,306.5" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-09-16" data-n="41" data-depth="048">
+<polygon points="681.1,296.7 691.2,298.8 691.2,318.2 681.1,316.1" fill="#2961a4"/>
+<polygon points="691.2,298.8 698.2,294.4 698.2,313.8 691.2,318.2" fill="#1f4a7d"/>
+<polygon points="688.1,292.3 698.2,294.4 691.2,298.8 681.1,296.7" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-09-22" data-n="7" data-depth="048">
+<polygon points="703.1,305.2 713.2,307.3 713.2,315.3 703.1,313.2" fill="#1f4d8a"/>
+<polygon points="713.2,307.3 720.2,302.9 720.2,310.9 713.2,315.3" fill="#183b69"/>
+<polygon points="710.1,300.8 720.2,302.9 713.2,307.3 703.1,305.2" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-09-28" data-n="64" data-depth="048">
+<polygon points="725.1,286.0 735.2,288.1 735.2,312.4 725.1,310.3" fill="#5379ab"/>
+<polygon points="735.2,288.1 742.2,283.8 742.2,308.0 735.2,312.4" fill="#3f5c82"/>
+<polygon points="732.1,281.7 742.2,283.8 735.2,288.1 725.1,286.0" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-10-04" data-n="76" data-depth="048">
+<polygon points="747.1,281.0 757.2,283.1 757.2,309.5 747.1,307.4" fill="#5379ab"/>
+<polygon points="757.2,283.1 764.2,278.7 764.2,305.1 757.2,309.5" fill="#3f5c82"/>
+<polygon points="754.1,276.6 764.2,278.7 757.2,283.1 747.1,281.0" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-09-05" data-n="67" data-depth="049">
+<polygon points="628.1,302.7 638.2,304.8 638.2,329.6 628.1,327.5" fill="#5379ab"/>
+<polygon points="638.2,304.8 645.2,300.4 645.2,325.2 638.2,329.6" fill="#3f5c82"/>
+<polygon points="635.1,298.3 645.2,300.4 638.2,304.8 628.1,302.7" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-09-11" data-n="128" data-depth="049">
+<polygon points="650.1,290.3 660.2,292.4 660.2,326.7 650.1,324.6" fill="#8599b1"/>
+<polygon points="660.2,292.4 667.2,288.0 667.2,322.3 660.2,326.7" fill="#657587"/>
+<polygon points="657.1,285.9 667.2,288.0 660.2,292.4 650.1,290.3" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-09-17" data-n="12" data-depth="049">
+<polygon points="672.1,311.2 682.2,313.3 682.2,323.8 672.1,321.7" fill="#1f4d8a"/>
+<polygon points="682.2,313.3 689.2,308.9 689.2,319.4 682.2,323.8" fill="#183b69"/>
+<polygon points="679.1,306.8 689.2,308.9 682.2,313.3 672.1,311.2" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-09-23" data-n="0" data-depth="049">
+<polygon points="701.1,314.4 711.2,316.5 704.2,320.9 694.1,318.8" fill="#383835"/></g>
+<g class="bar" data-date="2026-09-29" data-n="66" data-depth="049">
+<polygon points="716.1,291.3 726.2,293.4 726.2,318.0 716.1,315.9" fill="#5379ab"/>
+<polygon points="726.2,293.4 733.2,289.0 733.2,313.6 726.2,318.0" fill="#3f5c82"/>
+<polygon points="723.1,286.9 733.2,289.0 726.2,293.4 716.1,291.3" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-10-05" data-n="172" data-depth="049">
+<polygon points="738.1,273.2 748.2,275.3 748.2,315.1 738.1,313.0" fill="#8599b1"/>
+<polygon points="748.2,275.3 755.2,271.0 755.2,310.7 748.2,315.1" fill="#657587"/>
+<polygon points="745.1,268.9 755.2,271.0 748.2,275.3 738.1,273.2" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-11" data-n="119" data-depth="049">
+<polygon points="760.1,277.0 770.2,279.1 770.2,312.2 760.1,310.1" fill="#8599b1"/>
+<polygon points="770.2,279.1 777.2,274.8 777.2,307.8 770.2,312.2" fill="#657587"/>
+<polygon points="767.1,272.7 777.2,274.8 770.2,279.1 760.1,277.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-09-12" data-n="26" data-depth="050">
+<polygon points="641.1,314.7 651.2,316.8 651.2,332.3 641.1,330.2" fill="#2961a4"/>
+<polygon points="651.2,316.8 658.2,312.5 658.2,327.9 651.2,332.3" fill="#1f4a7d"/>
+<polygon points="648.1,310.4 658.2,312.5 651.2,316.8 641.1,314.7" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-09-18" data-n="19" data-depth="050">
+<polygon points="663.1,314.1 673.2,316.2 673.2,329.4 663.1,327.3" fill="#2961a4"/>
+<polygon points="673.2,316.2 680.2,311.8 680.2,325.0 673.2,329.4" fill="#1f4a7d"/>
+<polygon points="670.1,309.7 680.2,311.8 673.2,316.2 663.1,314.1" fill="#5095e8"/></g>
+<g class="bar" data-date="2026-09-24" data-n="2" data-depth="050">
+<polygon points="685.1,320.1 695.2,322.2 695.2,326.5 685.1,324.4" fill="#173b66"/>
+<polygon points="695.2,322.2 702.2,317.8 702.2,322.1 695.2,326.5" fill="#122d4e"/>
+<polygon points="692.1,315.7 702.2,317.8 695.2,322.2 685.1,320.1" fill="#3b669c"/></g>
+<g class="bar" data-date="2026-09-30" data-n="97" data-depth="050">
+<polygon points="707.1,291.6 717.2,293.7 717.2,323.6 707.1,321.5" fill="#8599b1"/>
+<polygon points="717.2,293.7 724.2,289.4 724.2,319.2 717.2,323.6" fill="#657587"/>
+<polygon points="714.1,287.3 724.2,289.4 717.2,293.7 707.1,291.6" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-06" data-n="69" data-depth="050">
+<polygon points="729.1,293.4 739.2,295.5 739.2,320.7 729.1,318.6" fill="#5379ab"/>
+<polygon points="739.2,295.5 746.2,291.1 746.2,316.3 739.2,320.7" fill="#3f5c82"/>
+<polygon points="736.1,289.0 746.2,291.1 739.2,295.5 729.1,293.4" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-10-12" data-n="126" data-depth="050">
+<polygon points="751.1,281.7 761.2,283.8 761.2,317.8 751.1,315.7" fill="#8599b1"/>
+<polygon points="761.2,283.8 768.2,279.4 768.2,313.4 761.2,317.8" fill="#657587"/>
+<polygon points="758.1,277.3 768.2,279.4 761.2,283.8 751.1,281.7" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-18" data-n="249" data-depth="050">
+<polygon points="773.1,265.0 783.2,267.1 783.2,314.9 773.1,312.8" fill="#8599b1"/>
+<polygon points="783.2,267.1 790.2,262.7 790.2,310.5 783.2,314.9" fill="#657587"/>
+<polygon points="780.1,260.6 790.2,262.7 783.2,267.1 773.1,265.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-09-19" data-n="58" data-depth="051">
+<polygon points="654.1,309.8 664.2,311.9 664.2,335.0 654.1,332.9" fill="#5379ab"/>
+<polygon points="664.2,311.9 671.2,307.5 671.2,330.6 664.2,335.0" fill="#3f5c82"/>
+<polygon points="661.1,305.4 671.2,307.5 664.2,311.9 654.1,309.8" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-09-25" data-n="8" data-depth="051">
+<polygon points="676.1,321.4 686.2,323.5 686.2,332.1 676.1,330.0" fill="#1f4d8a"/>
+<polygon points="686.2,323.5 693.2,319.1 693.2,327.7 686.2,332.1" fill="#183b69"/>
+<polygon points="683.1,317.0 693.2,319.1 686.2,323.5 676.1,321.4" fill="#457dc7"/></g>
+<g class="bar" data-date="2026-10-01" data-n="112" data-depth="051">
+<polygon points="698.1,295.0 708.2,297.1 708.2,329.2 698.1,327.1" fill="#8599b1"/>
+<polygon points="708.2,297.1 715.2,292.7 715.2,324.8 708.2,329.2" fill="#657587"/>
+<polygon points="705.1,290.6 715.2,292.7 708.2,297.1 698.1,295.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-07" data-n="63" data-depth="051">
+<polygon points="720.1,300.1 730.2,302.2 730.2,326.3 720.1,324.2" fill="#5379ab"/>
+<polygon points="730.2,302.2 737.2,297.9 737.2,321.9 730.2,326.3" fill="#3f5c82"/>
+<polygon points="727.1,295.8 737.2,297.9 730.2,302.2 720.1,300.1" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-10-13" data-n="311" data-depth="051">
+<polygon points="742.1,267.8 752.2,269.9 752.2,323.4 742.1,321.3" fill="#8599b1"/>
+<polygon points="752.2,269.9 759.2,265.6 759.2,319.0 752.2,323.4" fill="#657587"/>
+<polygon points="749.1,263.5 759.2,265.6 752.2,269.9 742.1,267.8" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-19" data-n="304" data-depth="051">
+<polygon points="764.1,265.5 774.2,267.7 774.2,320.5 764.1,318.4" fill="#8599b1"/>
+<polygon points="774.2,267.7 781.2,263.3 781.2,316.1 774.2,320.5" fill="#657587"/>
+<polygon points="771.1,261.2 781.2,263.3 774.2,267.7 764.1,265.5" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-25" data-n="519" data-depth="051">
+<polygon points="786.1,246.4 796.2,248.6 796.2,317.6 786.1,315.5" fill="#8599b1"/>
+<polygon points="796.2,248.6 803.2,244.2 803.2,313.2 796.2,317.6" fill="#657587"/>
+<polygon points="793.1,242.1 803.2,244.2 796.2,248.6 786.1,246.4" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-09-26" data-n="61" data-depth="052">
+<polygon points="667.1,311.9 677.2,314.0 677.2,337.7 667.1,335.6" fill="#5379ab"/>
+<polygon points="677.2,314.0 684.2,309.6 684.2,333.3 677.2,337.7" fill="#3f5c82"/>
+<polygon points="674.1,307.5 684.2,309.6 677.2,314.0 667.1,311.9" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-10-02" data-n="101" data-depth="052">
+<polygon points="689.1,302.2 699.2,304.3 699.2,334.8 689.1,332.7" fill="#8599b1"/>
+<polygon points="699.2,304.3 706.2,300.0 706.2,330.4 699.2,334.8" fill="#657587"/>
+<polygon points="696.1,297.9 706.2,300.0 699.2,304.3 689.1,302.2" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-08" data-n="66" data-depth="052">
+<polygon points="711.1,305.2 721.2,307.3 721.2,331.9 711.1,329.8" fill="#5379ab"/>
+<polygon points="721.2,307.3 728.2,302.9 728.2,327.5 721.2,331.9" fill="#3f5c82"/>
+<polygon points="718.1,300.8 728.2,302.9 721.2,307.3 711.1,305.2" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-10-14" data-n="328" data-depth="052">
+<polygon points="733.1,272.0 743.2,274.1 743.2,329.0 733.1,326.9" fill="#8599b1"/>
+<polygon points="743.2,274.1 750.2,269.7 750.2,324.6 743.2,329.0" fill="#657587"/>
+<polygon points="740.1,267.6 750.2,269.7 743.2,274.1 733.1,272.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-20" data-n="220" data-depth="052">
+<polygon points="755.1,279.0 765.2,281.1 765.2,326.1 755.1,324.0" fill="#8599b1"/>
+<polygon points="765.2,281.1 772.2,276.8 772.2,321.7 765.2,326.1" fill="#657587"/>
+<polygon points="762.1,274.7 772.2,276.8 765.2,281.1 755.1,279.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-26" data-n="474" data-depth="052">
+<polygon points="777.1,255.1 787.2,257.2 787.2,323.2 777.1,321.1" fill="#8599b1"/>
+<polygon points="787.2,257.2 794.2,252.8 794.2,318.8 787.2,323.2" fill="#657587"/>
+<polygon points="784.1,250.7 794.2,252.8 787.2,257.2 777.1,255.1" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-11-01" data-n="763" data-depth="052">
+<polygon points="799.1,234.5 809.2,236.6 809.2,320.3 799.1,318.2" fill="#8599b1"/>
+<polygon points="809.2,236.6 816.2,232.2 816.2,315.9 809.2,320.3" fill="#657587"/>
+<polygon points="806.1,230.1 816.2,232.2 809.2,236.6 799.1,234.5" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-03" data-n="128" data-depth="053">
+<polygon points="680.1,304.0 690.2,306.1 690.2,340.4 680.1,338.3" fill="#8599b1"/>
+<polygon points="690.2,306.1 697.2,301.7 697.2,336.0 690.2,340.4" fill="#657587"/>
+<polygon points="687.1,299.6 697.2,301.7 690.2,306.1 680.1,304.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-09" data-n="82" data-depth="053">
+<polygon points="702.1,307.9 712.2,310.0 712.2,337.5 702.1,335.4" fill="#5379ab"/>
+<polygon points="712.2,310.0 719.2,305.7 719.2,333.1 712.2,337.5" fill="#3f5c82"/>
+<polygon points="709.1,303.6 719.2,305.7 712.2,310.0 702.1,307.9" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-10-15" data-n="397" data-depth="053">
+<polygon points="724.1,272.1 734.2,274.2 734.2,334.6 724.1,332.5" fill="#8599b1"/>
+<polygon points="734.2,274.2 741.2,269.8 741.2,330.2 734.2,334.6" fill="#657587"/>
+<polygon points="731.1,267.7 741.2,269.8 734.2,274.2 724.1,272.1" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-21" data-n="1004" data-depth="053">
+<polygon points="746.1,233.6 756.2,235.7 756.2,331.7 746.1,329.6" fill="#8599b1"/>
+<polygon points="756.2,235.7 763.2,231.3 763.2,327.3 756.2,331.7" fill="#657587"/>
+<polygon points="753.1,229.2 763.2,231.3 756.2,235.7 746.1,233.6" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-27" data-n="559" data-depth="053">
+<polygon points="768.1,255.0 778.2,257.1 778.2,328.8 768.1,326.7" fill="#8599b1"/>
+<polygon points="778.2,257.1 785.2,252.8 785.2,324.4 778.2,328.8" fill="#657587"/>
+<polygon points="775.1,250.7 785.2,252.8 778.2,257.1 768.1,255.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-11-02" data-n="633" data-depth="053">
+<polygon points="790.1,247.5 800.2,249.7 800.2,325.9 790.1,323.8" fill="#8599b1"/>
+<polygon points="800.2,249.7 807.2,245.3 807.2,321.5 800.2,325.9" fill="#657587"/>
+<polygon points="797.1,243.2 807.2,245.3 800.2,249.7 790.1,247.5" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-10" data-n="93" data-depth="054">
+<polygon points="693.1,311.8 703.2,313.9 703.2,343.1 693.1,341.0" fill="#5379ab"/>
+<polygon points="703.2,313.9 710.2,309.5 710.2,338.7 703.2,343.1" fill="#3f5c82"/>
+<polygon points="700.1,307.4 710.2,309.5 703.2,313.9 693.1,311.8" fill="#84b3f0"/></g>
+<g class="bar" data-date="2026-10-16" data-n="879" data-depth="054">
+<polygon points="715.1,248.2 725.2,250.4 725.2,340.2 715.1,338.1" fill="#8599b1"/>
+<polygon points="725.2,250.4 732.2,246.0 732.2,335.8 725.2,340.2" fill="#657587"/>
+<polygon points="722.1,243.9 732.2,246.0 725.2,250.4 715.1,248.2" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-22" data-n="612" data-depth="054">
+<polygon points="737.1,260.2 747.2,262.3 747.2,337.3 737.1,335.2" fill="#8599b1"/>
+<polygon points="747.2,262.3 754.2,258.0 754.2,332.9 747.2,337.3" fill="#657587"/>
+<polygon points="744.1,255.9 754.2,258.0 747.2,262.3 737.1,260.2" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-28" data-n="618" data-depth="054">
+<polygon points="759.1,257.0 769.2,259.1 769.2,334.4 759.1,332.3" fill="#8599b1"/>
+<polygon points="769.2,259.1 776.2,254.7 776.2,330.0 769.2,334.4" fill="#657587"/>
+<polygon points="766.1,252.6 776.2,254.7 769.2,259.1 759.1,257.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-11-03" data-n="649" data-depth="054">
+<polygon points="781.1,252.2 791.2,254.3 791.2,331.5 781.1,329.4" fill="#8599b1"/>
+<polygon points="791.2,254.3 798.2,249.9 798.2,327.1 791.2,331.5" fill="#657587"/>
+<polygon points="788.1,247.8 798.2,249.9 791.2,254.3 781.1,252.2" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-17" data-n="877" data-depth="055">
+<polygon points="706.1,253.9 716.2,256.1 716.2,345.8 706.1,343.7" fill="#8599b1"/>
+<polygon points="716.2,256.1 723.2,251.7 723.2,341.4 716.2,345.8" fill="#657587"/>
+<polygon points="713.1,249.6 723.2,251.7 716.2,256.1 706.1,253.9" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-23" data-n="169" data-depth="055">
+<polygon points="728.1,301.4 738.2,303.5 738.2,342.9 728.1,340.8" fill="#8599b1"/>
+<polygon points="738.2,303.5 745.2,299.1 745.2,338.5 738.2,342.9" fill="#657587"/>
+<polygon points="735.1,297.0 745.2,299.1 738.2,303.5 728.1,301.4" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-29" data-n="516" data-depth="055">
+<polygon points="750.1,269.0 760.2,271.2 760.2,340.0 750.1,337.9" fill="#8599b1"/>
+<polygon points="760.2,271.2 767.2,266.8 767.2,335.6 760.2,340.0" fill="#657587"/>
+<polygon points="757.1,264.7 767.2,266.8 760.2,271.2 750.1,269.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-11-04" data-n="241" data-depth="055">
+<polygon points="772.1,287.9 782.2,290.0 782.2,337.1 772.1,335.0" fill="#8599b1"/>
+<polygon points="782.2,290.0 789.2,285.7 789.2,332.7 782.2,337.1" fill="#657587"/>
+<polygon points="779.1,283.6 789.2,285.7 782.2,290.0 772.1,287.9" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-24" data-n="530" data-depth="056">
+<polygon points="719.1,276.6 729.2,278.7 729.2,348.5 719.1,346.4" fill="#8599b1"/>
+<polygon points="729.2,278.7 736.2,274.4 736.2,344.1 729.2,348.5" fill="#657587"/>
+<polygon points="726.1,272.3 736.2,274.4 729.2,278.7 719.1,276.6" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-30" data-n="411" data-depth="056">
+<polygon points="741.1,282.0 751.2,284.2 751.2,345.6 741.1,343.5" fill="#8599b1"/>
+<polygon points="751.2,284.2 758.2,279.8 758.2,341.2 751.2,345.6" fill="#657587"/>
+<polygon points="748.1,277.7 758.2,279.8 751.2,284.2 741.1,282.0" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-11-05" data-n="96" data-depth="056">
+<polygon points="763.1,310.9 773.2,313.0 773.2,342.7 763.1,340.6" fill="#8599b1"/>
+<polygon points="773.2,313.0 780.2,308.6 780.2,338.3 773.2,342.7" fill="#657587"/>
+<polygon points="770.1,306.5 780.2,308.6 773.2,313.0 763.1,310.9" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-10-31" data-n="583" data-depth="057">
+<polygon points="732.1,275.9 742.2,278.0 742.2,351.2 732.1,349.1" fill="#8599b1"/>
+<polygon points="742.2,278.0 749.2,273.7 749.2,346.8 742.2,351.2" fill="#657587"/>
+<polygon points="739.1,271.5 749.2,273.7 742.2,278.0 732.1,275.9" fill="#c1daf7"/></g>
+<g class="bar" data-date="2026-11-06" data-n="115" data-depth="057">
+<polygon points="754.1,313.7 764.2,315.8 764.2,348.3 754.1,346.2" fill="#8599b1"/>
+<polygon points="764.2,315.8 771.2,311.4 771.2,343.9 764.2,348.3" fill="#657587"/>
+<polygon points="761.1,309.3 771.2,311.4 764.2,315.8 754.1,313.7" fill="#c1daf7"/></g>
+<circle cx="754.6" cy="232.4" r="3" fill="#f0efec"/>
+<circle cx="754.6" cy="232.4" r="3" fill="none" stroke="#f0efec" stroke-width="1.5"><animate attributeName="r" values="3;16" dur="2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="1140" y="82" width="26" height="260" fill="#3987e5" opacity="0.10" transform="skewX(-25)"><animate attributeName="x" values="70;1140" dur="6s" repeatCount="indefinite"/></rect>
+<text x="24" y="398" font-size="10" fill="#c3c2b7">2025-11-02 → 2026-11-06 · tower height ∝ √commits per day · merge commits excluded · 柱高与每日提交数的平方根成正比</text>
+</svg>
