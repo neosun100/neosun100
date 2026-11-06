@@ -51,7 +51,7 @@
 <path class="spark" d="M520.0,70.0L526.3,86.0L532.5,86.0L538.8,86.0L545.1,86.0L551.3,86.0L557.6,86.0L563.9,70.0L570.2,86.0L576.4,62.0L582.7,86.0L589.0,86.0L595.2,78.0L601.5,78.0L607.8,70.0L614.0,70.0L620.3,54.0L626.6,62.0L632.8,62.0L639.1,46.0L645.4,54.0L651.7,70.0L657.9,46.0L664.2,38.0L670.5,54.0L676.7,62.0L683.0,30.0L689.3,46.0L695.5,30.0L701.8,30.0L708.1,30.0L714.3,38.0L720.6,38.0L726.9,30.0L733.2,30.0L739.4,30.0L745.7,30.0L752.0,30.0L758.2,30.0L764.5,30.0L770.8,30.0L777.0,30.0L783.3,30.0L789.6,30.0L795.8,30.0L802.1,30.0L808.4,38.0L814.7,30.0L820.9,30.0L827.2,30.0L833.5,30.0L839.7,30.0L846.0,38.0" fill="none" stroke="#2a78d6" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="2000" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" values="2000;0;0" keyTimes="0;0.35;1" dur="8s" repeatCount="indefinite"/></path>
 <circle cx="846.0" cy="38.0" r="3.5" fill="#2a78d6"/>
 <circle cx="846.0" cy="38.0" r="3.5" fill="none" stroke="#2a78d6" stroke-width="1.5"><animate attributeName="r" values="3.5;12" dur="1.8s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/></circle>
-<text x="520" y="22" font-size="10" fill="#52514e">active days per week · past year · 近一年每周活跃天数</text>
+<text x="520" y="22" font-size="10" fill="#52514e">active days per week · past year</text>
 <g class="glitch" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.86;0.88;0.9;0.92;0.94;1" dur="5s" repeatCount="indefinite"/><text x="31" y="68" font-size="46" font-weight="900" letter-spacing="-1" fill="#ff2fd0" fill-opacity="0.7">Neo 孫</text><text x="37" y="72" font-size="46" font-weight="900" letter-spacing="-1" fill="#00e5ff" fill-opacity="0.7">Neo 孫</text><rect x="30" y="44" width="260" height="5" fill="#f4f4f1"><animate attributeName="y" values="30;72;50" dur="0.3s" repeatCount="indefinite"/></rect></g>
 <text x="34" y="70" font-size="46" font-weight="900" letter-spacing="-1" fill="url(#ng)">Neo 孫</text>
 <text x="36" y="98" font-size="14" fill="#52514e">97 public · 198 private · 10 domains · Hong Kong</text>
@@ -74,32 +74,26 @@
 <rect x="414.4" y="117" width="7" height="14" fill="#2a78d6"><animate attributeName="x" values="52;52;414.4;414.4" keyTimes="0;0.7500;0.8625;1" dur="16.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></rect></g>
 <rect x="34.0" y="146" width="127.0" height="74" rx="10" fill="#fcfcfb" stroke="#e8e7e3"/>
 <rect x="34.0" y="146" width="3" height="74" rx="1.5" fill="#2a78d6"/>
-<text data-stat="n_total" x="48.0" y="180" font-size="25" font-weight="800" fill="#2a78d6">295</text>
-<text x="48.0" y="197" font-size="9.5" fill="#52514e">projects in total</text>
-<text x="48.0" y="210" font-size="9.5" fill="#52514e">项目总数</text>
+<text data-stat="n_total" x="48.0" y="186" font-size="26" font-weight="800" fill="#2a78d6">295</text>
+<text x="48.0" y="206" font-size="10" fill="#52514e">projects in total</text>
 <rect x="171.0" y="146" width="127.0" height="74" rx="10" fill="#fcfcfb" stroke="#e8e7e3"/>
 <rect x="171.0" y="146" width="3" height="74" rx="1.5" fill="#2a78d6"/>
-<text data-stat="n_private" x="185.0" y="180" font-size="25" font-weight="800" fill="#2a78d6">198</text>
-<text x="185.0" y="197" font-size="9.5" fill="#52514e">private projects</text>
-<text x="185.0" y="210" font-size="9.5" fill="#52514e">私有项目</text>
+<text data-stat="n_private" x="185.0" y="186" font-size="26" font-weight="800" fill="#2a78d6">198</text>
+<text x="185.0" y="206" font-size="10" fill="#52514e">private projects</text>
 <rect x="308.0" y="146" width="127.0" height="74" rx="10" fill="#fcfcfb" stroke="#e8e7e3"/>
 <rect x="308.0" y="146" width="3" height="74" rx="1.5" fill="#2a78d6"/>
-<text data-stat="commits_12m" x="322.0" y="180" font-size="25" font-weight="800" fill="#2a78d6">19,838</text>
-<text x="322.0" y="197" font-size="9.5" fill="#52514e">commits, past year</text>
-<text x="322.0" y="210" font-size="9.5" fill="#52514e">近一年提交</text>
+<text data-stat="commits_12m" x="322.0" y="186" font-size="26" font-weight="800" fill="#2a78d6">19,838</text>
+<text x="322.0" y="206" font-size="10" fill="#52514e">commits, past year</text>
 <rect x="445.0" y="146" width="127.0" height="74" rx="10" fill="#fcfcfb" stroke="#e8e7e3"/>
 <rect x="445.0" y="146" width="3" height="74" rx="1.5" fill="#2a78d6"/>
-<text data-stat="streak_longest" x="459.0" y="180" font-size="25" font-weight="800" fill="#2a78d6">97</text>
-<text x="459.0" y="197" font-size="9.5" fill="#52514e">longest streak (days)</text>
-<text x="459.0" y="210" font-size="9.5" fill="#52514e">最长连续天数</text>
+<text data-stat="streak_longest" x="459.0" y="186" font-size="26" font-weight="800" fill="#2a78d6">97</text>
+<text x="459.0" y="206" font-size="10" fill="#52514e">longest streak (days)</text>
 <rect x="582.0" y="146" width="127.0" height="74" rx="10" fill="#fcfcfb" stroke="#e8e7e3"/>
 <rect x="582.0" y="146" width="3" height="74" rx="1.5" fill="#2a78d6"/>
-<text data-stat="stars" x="596.0" y="180" font-size="25" font-weight="800" fill="#2a78d6">467</text>
-<text x="596.0" y="197" font-size="9.5" fill="#52514e">stars</text>
-<text x="596.0" y="210" font-size="9.5" fill="#52514e">星标</text>
+<text data-stat="stars" x="596.0" y="186" font-size="26" font-weight="800" fill="#2a78d6">467</text>
+<text x="596.0" y="206" font-size="10" fill="#52514e">stars</text>
 <rect x="719.0" y="146" width="127.0" height="74" rx="10" fill="#fcfcfb" stroke="#e8e7e3"/>
 <rect x="719.0" y="146" width="3" height="74" rx="1.5" fill="#2a78d6"/>
-<text data-stat="n_contributions" x="733.0" y="180" font-size="25" font-weight="800" fill="#2a78d6">4</text>
-<text x="733.0" y="197" font-size="9.5" fill="#52514e">upstream PRs merged</text>
-<text x="733.0" y="210" font-size="9.5" fill="#52514e">上游 PR 已合并</text>
+<text data-stat="n_contributions" x="733.0" y="186" font-size="26" font-weight="800" fill="#2a78d6">4</text>
+<text x="733.0" y="206" font-size="10" fill="#52514e">upstream PRs merged</text>
 </svg>

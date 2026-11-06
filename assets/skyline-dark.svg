@@ -2,7 +2,7 @@
 <title>19838 commits in the past year — skyline</title>
 <rect width="880" height="410" rx="14" fill="#232322"/>
 <text data-stat="commits_12m" x="24" y="48" font-size="30" font-weight="900" fill="#3987e5">19,838</text>
-<text x="143" y="32" font-size="13" font-weight="700" fill="#f0efec">commit skyline · past year · 近一年提交天际线</text>
+<text x="143" y="32" font-size="13" font-weight="700" fill="#f0efec">commit skyline · past year</text>
 <text x="143" y="48" font-size="11" fill="#c3c2b7">one tower per day · busiest 2026-10-21: 1,004</text>
 <g><animateTransform attributeName="transform" type="translate" values="0 50;0 0;0 0" keyTimes="0;0.1;1" dur="14s" repeatCount="indefinite"/>
 <polygon points="128.4,170.0 822.7,314.2 756.1,355.6 61.8,211.4" fill="#1a1a19" stroke="#383835"/>
@@ -1232,5 +1232,5 @@
 <circle cx="754.6" cy="232.4" r="3" fill="none" stroke="#f0efec" stroke-width="1.5"><animate attributeName="r" values="3;16" dur="2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0" dur="2s" repeatCount="indefinite"/></circle>
 </g>
 <rect x="1140" y="82" width="26" height="260" fill="#3987e5" opacity="0.10" transform="skewX(-25)"><animate attributeName="x" values="70;1140" dur="6s" repeatCount="indefinite"/></rect>
-<text x="24" y="398" font-size="10" fill="#c3c2b7">2025-11-02 → 2026-11-06 · tower height ∝ √commits per day · merge commits excluded · 柱高与每日提交数的平方根成正比</text>
+<text x="24" y="398" font-size="10" fill="#c3c2b7">2025-11-02 → 2026-11-06 · tower height ∝ √commits per day · merge commits excluded</text>
 </svg>

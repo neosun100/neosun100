@@ -2,8 +2,8 @@
 <title>19838 commits in the past year</title>
 <rect width="800" height="210" rx="10" fill="#fcfcfb"/>
 <text data-stat="commits_12m" x="14" y="40" font-size="28" font-weight="800" fill="#2a78d6">19,838</text>
-<text x="120" y="28" font-size="13" font-weight="700" fill="#0b0b0b">commits in the past year · 近一年提交</text>
-<text x="120" y="44" font-size="11" fill="#52514e">on 235 days · 活跃 235 天 · busiest 2026-10-21: 1004</text>
+<text x="120" y="28" font-size="13" font-weight="700" fill="#0b0b0b">commits in the past year</text>
+<text x="120" y="44" font-size="11" fill="#52514e">on 235 active days · busiest 2026-10-21: 1004</text>
 <text x="38" y="101" text-anchor="end" font-size="9" fill="#52514e">Mon</text>
 <text x="38" y="129" text-anchor="end" font-size="9" fill="#52514e">Wed</text>
 <text x="38" y="157" text-anchor="end" font-size="9" fill="#52514e">Fri</text>
