@@ -15,7 +15,10 @@ I package open-source AI models for speech, translation, OCR and talking-head vi
   <img alt="Project galaxy: 97 public and 198 private projects" src="assets/galaxy.svg">
 </picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" src="assets/divider.svg">
+</picture>
 
 ## ✨ Highlights
 
@@ -78,6 +81,11 @@ An AI-powered novel writing assistant that generates outlines, characters, world
 
   `Python` `FastAPI` `React` `PostgreSQL` `Docker`
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" src="assets/divider.svg">
+</picture>
+
 ## 📊 By the numbers
 
 <picture>
@@ -101,6 +109,11 @@ An AI-powered novel writing assistant that generates outlines, characters, world
   <img alt="Most-starred projects" src="assets/stars.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" src="assets/divider.svg">
+</picture>
+
 ## 🔒 Beyond the public repos
 
 - **19,838 commits** authored in the past year, on **235 different days**, across **225 repositories** (merge commits excluded; counted from local git history).
@@ -110,14 +123,15 @@ An AI-powered novel writing assistant that generates outlines, characters, world
   <img alt="19838 commits in the past year, one tower per day" src="assets/skyline.svg">
 </picture>
 
-<details><summary>Flat calendar view</summary>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img alt="19838 commits in the past year" src="assets/activity.svg">
+  <img alt="19838 commits in the past year, as a game of Breakout" src="assets/activity.svg">
 </picture>
 
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/clock-dark.svg">
+  <img alt="When I code: commits by hour and weekday" src="assets/clock.svg">
+</picture>
 
 - **198 private or unlisted projects** — 8 are introduced below, the rest stay unnamed. By domain: Agent tooling (38), Infrastructure (33), LLM apps (29), Content & media (23), Speech & audio AI (18). Languages: Python (90), TypeScript (22), Shell (21), JavaScript (18), HTML (17).
 
@@ -144,6 +158,11 @@ _Selected private projects — the code is not public; described here with the o
 </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" src="assets/divider.svg">
+</picture>
+
 ## 🧰 Stack
 
 <picture>
@@ -156,6 +175,11 @@ _Selected private projects — the code is not public; described here with the o
 `Python` `Docker` `CUDA` `FastAPI` `MCP` `PyTorch` `Gradio` `WebSocket` `TypeScript` `Solidity` `JavaScript` `HashKey Chain` `vLLM` `Swagger` `Flask` `NVIDIA Container Toolkit` `ONNX Runtime` `Docker Compose` `Node.js` `Whisper` `Transformers` `Hardhat` `GGUF` `React` `HuggingFace` `Nginx` `ffmpeg` `HTML`
 
 </details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" src="assets/divider.svg">
+</picture>
 
 ## 📦 All public projects (97)
 
@@ -321,6 +345,16 @@ _Every public project, each with a one-line summary._
 ---
 
 _And 198 more private or unlisted projects._
+
+<details><summary>🥚</summary>
+
+- 19,841 commits since 2025-04 (merge commits excluded)
+- busiest day: 2026-10-21, with 1,004 commits
+- longest streak: 97 days in a row
+- 33% of commits land between 10 pm and 5 am; favourite hour: 00:00
+- if every commit were a step, that walk would be about 15.1 km
+
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/waves-dark.svg">

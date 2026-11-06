@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="When I code" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+<title>When I code</title>
+<rect width="880" height="300" rx="14" fill="#f4f4f1"/>
+<circle cx="170" cy="158" r="75.0" fill="none" stroke="#e8e7e3"/>
+<circle cx="170" cy="158" r="116.0" fill="none" stroke="#e8e7e3"/>
+<path class="spoke" d="M166.4,124.2 L157.9,42.6 A116.0,116.0 0 0,1 182.1,42.6 L173.6,124.2 A34,34 0 0,0 166.4,124.2 Z" fill="#0b0b0b" fill-opacity="0.95"/>
+<path class="spoke" d="M175.3,124.4 L186.0,57.0 A102.3,102.3 0 0,1 206.7,62.5 L182.2,126.3 A34,34 0 0,0 175.3,124.4 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M183.8,126.9 L206.5,76.1 A89.7,89.7 0 0,1 222.7,85.4 L190.0,130.5 A34,34 0 0,0 183.8,126.9 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M191.4,131.6 L217.2,99.7 A75.1,75.1 0 0,1 228.3,110.8 L196.4,136.6 A34,34 0 0,0 191.4,131.6 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M197.5,138.0 L220.9,121.0 A62.9,62.9 0 0,1 227.5,132.4 L201.1,144.2 A34,34 0 0,0 197.5,138.0 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M201.7,145.8 L227.6,135.9 A61.7,61.7 0 0,1 231.0,148.3 L203.6,152.7 A34,34 0 0,0 201.7,145.8 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M203.8,154.4 L228.7,151.8 A59.0,59.0 0 0,1 228.7,164.2 L203.8,161.6 A34,34 0 0,0 203.8,154.4 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M203.6,163.3 L241.1,169.3 A72.0,72.0 0 0,1 237.2,183.8 L201.7,170.2 A34,34 0 0,0 203.6,163.3 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M201.1,171.8 L247.0,192.3 A84.3,84.3 0 0,1 238.2,207.5 L197.5,178.0 A34,34 0 0,0 201.1,171.8 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M196.4,179.4 L249.4,222.3 A102.2,102.2 0 0,1 234.3,237.4 L191.4,184.4 A34,34 0 0,0 196.4,179.4 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M190.0,185.5 L223.7,231.9 A91.4,91.4 0 0,1 207.2,241.5 L183.8,189.1 A34,34 0 0,0 190.0,185.5 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M182.2,189.7 L200.5,237.4 A85.1,85.1 0 0,1 183.3,242.0 L175.3,191.6 A34,34 0 0,0 182.2,189.7 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M173.6,191.8 L177.9,233.1 A75.5,75.5 0 0,1 162.1,233.1 L166.4,191.8 A34,34 0 0,0 173.6,191.8 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M164.7,191.6 L157.1,239.6 A82.6,82.6 0 0,1 140.4,235.1 L157.8,189.7 A34,34 0 0,0 164.7,191.6 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M156.2,189.1 L134.9,236.8 A86.3,86.3 0 0,1 119.3,227.8 L150.0,185.5 A34,34 0 0,0 156.2,189.1 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M148.6,184.4 L114.2,226.9 A88.6,88.6 0 0,1 101.1,213.8 L143.6,179.4 A34,34 0 0,0 148.6,184.4 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M142.5,178.0 L98.7,209.8 A88.1,88.1 0 0,1 89.5,193.9 L138.9,171.8 A34,34 0 0,0 142.5,178.0 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M138.3,170.2 L88.8,189.2 A87.0,87.0 0 0,1 84.1,171.6 L136.4,163.3 A34,34 0 0,0 138.3,170.2 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M136.2,161.6 L95.0,165.9 A75.4,75.4 0 0,1 95.0,150.1 L136.2,154.4 A34,34 0 0,0 136.2,161.6 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M136.4,152.7 L86.8,144.8 A84.2,84.2 0 0,1 91.4,127.8 L138.3,145.8 A34,34 0 0,0 136.4,152.7 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M138.9,144.2 L92.1,123.3 A85.2,85.2 0 0,1 101.1,107.9 L142.5,138.0 A34,34 0 0,0 138.9,144.2 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M143.6,136.6 L96.8,98.8 A94.1,94.1 0 0,1 110.8,84.8 L148.6,131.6 A34,34 0 0,0 143.6,136.6 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M150.0,130.5 L109.3,74.4 A103.3,103.3 0 0,1 128.0,63.6 L156.2,126.9 A34,34 0 0,0 150.0,130.5 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<path class="spoke" d="M157.8,126.3 L134.2,64.7 A99.9,99.9 0 0,1 154.4,59.3 L164.7,124.4 A34,34 0 0,0 157.8,126.3 Z" fill="#2a78d6" fill-opacity="0.75"/>
+<text x="300.0" y="162.0" text-anchor="middle" font-size="10" fill="#52514e">06</text>
+<text x="170.0" y="292.0" text-anchor="middle" font-size="10" fill="#52514e">12</text>
+<text x="40.0" y="162.0" text-anchor="middle" font-size="10" fill="#52514e">18</text>
+<text x="170.0" y="16.0" text-anchor="middle" font-size="11" font-weight="800" fill="#0b0b0b">00:00</text>
+<line x1="170" y1="158" x2="170" y2="36" stroke="#0b0b0b" stroke-width="1.6" stroke-linecap="round" opacity="0.7"><animateTransform attributeName="transform" type="rotate" values="0 170 158;360 170 158" dur="24s" repeatCount="indefinite"/></line>
+<circle cx="170" cy="158" r="5" fill="#0b0b0b"/>
+<text x="360" y="40" font-size="15" font-weight="800" fill="#0b0b0b">When I code</text>
+<text x="360" y="58" font-size="10.5" fill="#52514e">commits by local hour and weekday · past year</text>
+<text x="388" y="91" text-anchor="end" font-size="10" fill="#52514e">Mon</text>
+<rect x="396" y="82" width="207.9" height="11" rx="2.5" fill="#2a78d6"/>
+<text x="609.9" y="91" font-size="10" font-weight="600" fill="#0b0b0b">2,549</text>
+<text x="388" y="109" text-anchor="end" font-size="10" fill="#52514e">Tue</text>
+<rect x="396" y="100" width="226.2" height="11" rx="2.5" fill="#2a78d6"/>
+<text x="628.2" y="109" font-size="10" font-weight="600" fill="#0b0b0b">2,773</text>
+<text x="388" y="127" text-anchor="end" font-size="10" fill="#52514e">Wed</text>
+<rect x="396" y="118" width="245.1" height="11" rx="2.5" fill="#2a78d6"/>
+<text x="647.1" y="127" font-size="10" font-weight="600" fill="#0b0b0b">3,005</text>
+<text x="388" y="145" text-anchor="end" font-size="10" fill="#52514e">Thu</text>
+<rect x="396" y="136" width="217.7" height="11" rx="2.5" fill="#2a78d6"/>
+<text x="619.7" y="145" font-size="10" font-weight="600" fill="#0b0b0b">2,669</text>
+<text x="388" y="163" text-anchor="end" font-size="10" fill="#52514e">Fri</text>
+<rect x="396" y="154" width="227.5" height="11" rx="2.5" fill="#2a78d6"/>
+<text x="629.5" y="163" font-size="10" font-weight="600" fill="#0b0b0b">2,789</text>
+<text x="388" y="181" text-anchor="end" font-size="10" fill="#52514e">Sat</text>
+<rect x="396" y="172" width="243.7" height="11" rx="2.5" fill="#2a78d6"/>
+<text x="645.7" y="181" font-size="10" font-weight="600" fill="#0b0b0b">2,988</text>
+<text x="388" y="199" text-anchor="end" font-size="10" fill="#52514e">Sun</text>
+<rect x="396" y="190" width="250.0" height="11" rx="2.5" fill="#2a78d6"/>
+<text x="652.0" y="199" font-size="10" font-weight="600" fill="#0b0b0b">3,065</text>
+<text data-stat="night_pct" x="360" y="230" font-size="22" font-weight="900" fill="#2a78d6">33</text>
+<text x="397.0" y="230" font-size="11" fill="#52514e">% between 10 pm and 5 am · night owl</text>
+<text data-stat="weekend_pct" x="360" y="260" font-size="22" font-weight="900" fill="#2a78d6">31</text>
+<text x="397.0" y="260" font-size="11" fill="#52514e">% on weekends</text>
+</svg>
